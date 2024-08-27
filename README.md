@@ -1,5 +1,3 @@
-## Here is an example of how to use Bracketry with a tennis tournament
-
 ### Things to note
 
 * Explicit CSS height is specified for wrapper element
