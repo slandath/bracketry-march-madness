@@ -7,7586 +7,1328 @@ export default {
             "name": "2nd Round"
         },
         {
-            "name": "3rd Round"
+            "name": "Sweet Sixteen"
         },
         {
-            "name": "4th Round"
+            "name": "Elite Eight"
         },
         {
-            "name": "Quarterfinals"
+            "name": "Final Four"
         },
         {
-            "name": "Semifinals"
-        },
-        {
-            "name": "Final"
+            "name": "Championship"
         }
     ],
     "matches": [
+// Round 1
+// South Region
         {
-
-            "roundIndex": 6,
+            "roundIndex": 0,
             "sides": [
                 {
-                    "contestantId": "163911",
+                    "contestantId": "00",
                     "scores": [
                         {
-                            "mainScore": "7",
-                            "isWinner": true,
+                            "mainScore": 0,
                         },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
                     ],
-                    "isWinner": true
+                    "isWinner": false
                 },
-                {
-                    "contestantId": "163806",
-                    "scores": [
-                        {
-                            "mainScore": "5",
-                        },
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "2",
-
-                        }
-                    ],
-
-                }
             ],
             "order": 0,
-
-
         },
         {
-
-            "roundIndex": 4,
+            "roundIndex": 0,
             "sides": [
                 {
-                    "contestantId": "164351",
+                    "contestantId": "01",
                     "scores": [
                         {
-                            "mainScore": "6",
-                            "isWinner": true
+                            "mainScore": 0,
                         },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "1",
-
-                        },
-                        {
-                            "mainScore": "2",
-
-                        }
                     ],
-
+                    "isWinner": false
                 },
                 {
-                    "contestantId": "164016",
+                    "contestantId": "02",
                     "scores": [
                         {
-                            "mainScore": "2",
-
+                            "mainScore": 0,
                         },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
                     ],
-                    "isWinner": true
                 }
             ],
             "order": 1,
-
-
         },
         {
-
             "roundIndex": 0,
             "sides": [
                 {
-                    "contestantId": "164111",
+                    "contestantId": "03",
                     "scores": [
                         {
-                            "mainScore": "6",
-                            "subscore": 1,
-
+                            "mainScore": 0,
                         },
-                        {
-                            "mainScore": "6",
-                            "subscore": 3,
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        }
                     ],
-
+                    "isWinner": false
                 },
                 {
-                    "contestantId": "164116",
+                    "contestantId": "04",
                     "scores": [
                         {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
+                            "mainScore": 0,
                         },
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
                     ],
-                    "isWinner": true
                 }
             ],
-            "order": 14,
-
-
+            "order": 2,
         },
         {
-
             "roundIndex": 0,
             "sides": [
                 {
-                    "contestantId": "163791",
+                    "contestantId": "05",
                     "scores": [
                         {
-                            "mainScore": "6",
-                            "isWinner": true
+                            "mainScore": 0,
                         },
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        }
                     ],
-                    "isWinner": true
+                    "isWinner": false
                 },
                 {
-                    "contestantId": "163796",
+                    "contestantId": "06",
                     "scores": [
                         {
-                            "mainScore": "4",
-
+                            "mainScore": 0,
                         },
-                        {
-                            "mainScore": "5",
-
-                        },
-                        {
-                            "mainScore": "5",
-
-                        }
                     ],
-
-                }
-            ],
-            "order": 45,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "164151",
-                    "scores": [
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "5",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "164156",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 60,
-
-
-        },
-        {
-
-            "roundIndex": 1,
-            "sides": [
-                {
-                    "contestantId": "164236",
-                    "scores": [
-                        {
-                            "mainScore": "0",
-
-                        },
-                        {
-                            "mainScore": "1",
-
-                        },
-                        {
-                            "mainScore": "0",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "164016",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 14,
-
-
-        },
-        {
-
-            "roundIndex": 1,
-            "sides": [
-                {
-                    "contestantId": "167131",
-                    "scores": [
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "0",
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "163986",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 15,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "163921",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "subscore": 6,
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 6,
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "163926",
-                    "scores": [
-                        {
-                            "mainScore": "7",
-                            "subscore": 8,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 8,
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
                 }
             ],
             "order": 3,
-
-
         },
         {
-
-            "roundIndex": 3,
-            "sides": [
-                {
-                    "contestantId": "164266",
-                    "scores": [
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 5,
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "163896",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 1,
-
-
-        },
-        {
-
             "roundIndex": 0,
             "sides": [
                 {
-                    "contestantId": "163891",
+                    "contestantId": "07",
                     "scores": [
                         {
-                            "mainScore": "7",
-                            "subscore": 10,
-                            "isWinner": true
+                            "mainScore": 0,
                         },
-                        {
-                            "mainScore": "6",
-                            "subscore": 5,
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "2",
-
-                        }
                     ],
-
+                    "isWinner": false
                 },
                 {
-                    "contestantId": "163896",
+                    "contestantId": "",
                     "scores": [
                         {
-                            "mainScore": "6",
-                            "subscore": 8,
-
+                            "mainScore": 0,
                         },
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 15,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "163781",
-                    "scores": [
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 5,
-
-                        },
-                        {
-                            "mainScore": "5",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "163786",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 43,
-
-
-        },
-        {
-
-            "roundIndex": 1,
-            "sides": [
-                {
-                    "contestantId": "163901",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "164271",
-                    "scores": [
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "0",
-
-                        },
-                        {
-                            "mainScore": "2",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 8,
-
-
-        },
-        {
-
-            "roundIndex": 5,
-            "sides": [
-                {
-                    "contestantId": "163806",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "164021",
-                    "scores": [
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "5",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 1,
-
-
-        },
-        {
-
-            "roundIndex": 1,
-            "sides": [
-                {
-                    "contestantId": "164066",
-                    "scores": [
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 3,
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "4",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "164226",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 11,
-
-
-        },
-        {
-
-            "roundIndex": 1,
-            "sides": [
-                {
-                    "contestantId": "164071",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "163996",
-                    "scores": [
-                        {
-                            "mainScore": "1",
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "2",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 12,
-
-
-        },
-        {
-
-            "roundIndex": 4,
-            "sides": [
-                {
-                    "contestantId": "163911",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "subscore": 6,
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 8,
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "163896",
-                    "scores": [
-                        {
-                            "mainScore": "7",
-                            "subscore": 8,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 6,
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 0,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "163851",
-                    "scores": [
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "163856",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "2",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 42,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "164241",
-                    "scores": [
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "164246",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "subscore": 4,
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "2",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 44,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "164181",
-                    "scores": [
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "164186",
-                    "scores": [
-                        {
-                            "mainScore": "5",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 46,
-
-
-        },
-        {
-
-            "roundIndex": 2,
-            "sides": [
-                {
-                    "contestantId": "163931",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "subscore": 2,
-
-                        },
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "2",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "164196",
-                    "scores": [
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "5",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 1,
-
-
-        },
-        {
-
-            "roundIndex": 5,
-            "sides": [
-                {
-                    "contestantId": "163911",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "164016",
-                    "scores": [
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "2",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 0,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "163911",
-                    "isWinner": true
-                },
-                {
-                    "title": "<div style='margin-left: 60px'>BYE</div>"
-                }
-            ],
-            "order": 0,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "164391",
-                    "scores": [
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "1",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "164396",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 63,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "164161",
-                    "scores": [
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 0,
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "164166",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 37,
-
-
-        },
-        {
-
-            "roundIndex": 1,
-            "sides": [
-                {
-                    "contestantId": "164401",
-                    "scores": [
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "5",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 8,
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "164311",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 10,
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 19,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "163931",
-                    "scores": [
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 3,
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "163936",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "1",
-
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "3",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 5,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "164191",
-                    "scores": [
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "2",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "164196",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 7,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "164251",
-                    "scores": [
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "5",
-
-                        },
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "4",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "164256",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "5",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 10,
-
-
-        },
-        {
-
-            "roundIndex": 1,
-            "sides": [
-                {
-                    "contestantId": "163851",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "163786",
-                    "scores": [
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "4",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 21,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "164021",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "164026",
-                    "scores": [
-                        {
-                            "mainScore": "1",
-
-                        },
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "1",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 48,
-
-
-        },
-        {
-
-            "roundIndex": 1,
-            "sides": [
-                {
-                    "contestantId": "164021",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "subscore": 5,
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 5,
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "164081",
-                    "scores": [
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "1",
-
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "4",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 24,
-
-
-        },
-        {
-
-            "roundIndex": 1,
-            "sides": [
-                {
-                    "contestantId": "164386",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 5,
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "164091",
-                    "scores": [
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 25,
-
-
-        },
-        {
-
-            "roundIndex": 2,
-            "sides": [
-                {
-                    "contestantId": "164291",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "subscore": 1,
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 5,
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 5,
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "164136",
-                    "scores": [
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 13,
-
-
-        },
-        {
-
-            "roundIndex": 2,
-            "sides": [
-                {
-                    "contestantId": "164021",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "164091",
-                    "scores": [
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "1",
-
-                        },
-                        {
-                            "mainScore": "1",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 12,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "164101",
-                    "scores": [
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 3,
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "164106",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "subscore": 3,
-
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 3,
-
-                        },
-                        {
-                            "mainScore": "5",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 62,
-
-
-        },
-        {
-
-            "roundIndex": 1,
-            "sides": [
-                {
-                    "contestantId": "163871",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 10,
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "164201",
-                    "scores": [
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 8,
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 16,
-
-
-        },
-        {
-
-            "roundIndex": 1,
-            "sides": [
-                {
-                    "contestantId": "164006",
-                    "scores": [
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "1",
-
-                        },
-                        {
-                            "mainScore": "2",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "164126",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 13,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "164171",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 6,
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "164176",
-                    "scores": [
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 4,
-
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 8,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 40,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "164311",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "subscore": 1,
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "164316",
-                    "scores": [
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "0",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 5,
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 39,
-
-
-        },
-        {
-
-            "roundIndex": 1,
-            "sides": [
-                {
-                    "contestantId": "163911",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 3,
-
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "163771",
-                    "scores": [
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 2,
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 0,
-
-
-        },
-        {
-
-            "roundIndex": 2,
-            "sides": [
-                {
-                    "contestantId": "163826",
-                    "scores": [
-                        {
-                            "mainScore": "7",
-                            "subscore": 8,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "5",
-
-                        },
-                        {
-                            "mainScore": "1",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "164266",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "subscore": 6,
-
-                        },
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 2,
-
-
-        },
-        {
-
-            "roundIndex": 1,
-            "sides": [
-                {
-                    "contestantId": "163831",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 6,
-
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 5,
-
-                        },
-                        {
-                            "mainScore": "2",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "163926",
-                    "scores": [
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 8,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 4,
-
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 1,
-
-
-        },
-        {
-
-            "roundIndex": 2,
-            "sides": [
-                {
-                    "contestantId": "164281",
-                    "scores": [
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "1",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "163896",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 3,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "163901",
-                    "scores": [
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "163906",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "subscore": 2,
-
-                        },
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 16,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "163861",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "163866",
-                    "scores": [
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 13,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "164271",
-                    "scores": [
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "164276",
-                    "scores": [
-                        {
-                            "mainScore": "5",
-
-                        },
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 17,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "164281",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "164286",
-                    "scores": [
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 2,
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 12,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "163831",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "163836",
-                    "scores": [
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 2,
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 2,
-
-
-        },
-        {
-
-            "roundIndex": 3,
-            "sides": [
-                {
-                    "contestantId": "163911",
-                    "scores": [
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "164196",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "subscore": 4,
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "1",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 0,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "163771",
-                    "isWinner": true
-                },
-                {
-                    "title": "<div style='margin-left: 60px'>BYE</div>"
-                }
-            ],
-            "order": 1,
-
-
-        },
-        {
-
-            "roundIndex": 1,
-            "sides": [
-                {
-                    "contestantId": "163976",
-                    "scores": [
-                        {
-                            "mainScore": "5",
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "164216",
-                    "scores": [
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "5",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 17,
-
-
-        },
-        {
-
-            "roundIndex": 1,
-            "sides": [
-                {
-                    "contestantId": "164341",
-                    "scores": [
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "164166",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "5",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 18,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "163811",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 4,
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "163816",
-                    "scores": [
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 6,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "163821",
-                    "scores": [
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "1",
-
-                        },
-                        {
-                            "mainScore": "1",
-
-                        },
-                        {
-                            "mainScore": "1",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "163826",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "subscore": 3,
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 9,
-
-
-        },
-        {
-
-            "roundIndex": 1,
-            "sides": [
-                {
-                    "contestantId": "163956",
-                    "scores": [
-                        {
-                            "mainScore": "5",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "163966",
-                    "scores": [
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 2,
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 9,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "164341",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "2",
-
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "164346",
-                    "scores": [
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "1",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 36,
-
-            "matchStatus": "Retired"
-        },
-        {
-
-            "roundIndex": 4,
-            "sides": [
-                {
-                    "contestantId": "163871",
-                    "scores": [
-                        {
-                            "mainScore": "5",
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "2",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "163806",
-                    "scores": [
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 2,
-
-
-        },
-        {
-
-            "roundIndex": 2,
-            "sides": [
-                {
-                    "contestantId": "164141",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "164336",
-                    "scores": [
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 14,
-
-
-        },
-        {
-
-            "roundIndex": 4,
-            "sides": [
-                {
-                    "contestantId": "164021",
-                    "scores": [
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "164396",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 4,
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "5",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 3,
-
-
-        },
-        {
-
-            "roundIndex": 1,
-            "sides": [
-                {
-                    "contestantId": "164351",
-                    "scores": [
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "164361",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "subscore": 1,
-
-                        },
-                        {
-                            "mainScore": "1",
-
-                        },
-                        {
-                            "mainScore": "2",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 10,
-
-
-        },
-        {
-
-            "roundIndex": 2,
-            "sides": [
-                {
-                    "contestantId": "164156",
-                    "scores": [
-                        {
-                            "mainScore": "5",
-
-                        },
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "5",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "164396",
-                    "scores": [
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 15,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "164041",
-                    "scores": [
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "164046",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 57,
-
-
-        },
-        {
-
-            "roundIndex": 1,
-            "sides": [
-                {
-                    "contestantId": "164256",
-                    "scores": [
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 4,
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "3",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "164266",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 5,
-
-
-        },
-        {
-
-            "roundIndex": 1,
-            "sides": [
-                {
-                    "contestantId": "163841",
-                    "scores": [
-                        {
-                            "mainScore": "5",
-
-                        },
-                        {
-                            "mainScore": "1",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 9,
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "163931",
-                    "scores": [
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 11,
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 2,
-
-
-        },
-        {
-
-            "roundIndex": 3,
-            "sides": [
-                {
-                    "contestantId": "163901",
-                    "scores": [
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "0",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "164351",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 2,
-
-
-        },
-        {
-
-            "roundIndex": 1,
-            "sides": [
-                {
-                    "contestantId": "164291",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "164051",
-                    "scores": [
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 26,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "163991",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "1",
-
-                        },
-                        {
-                            "mainScore": "1",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "163996",
-                    "scores": [
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "4",
-
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 25,
-
-            "matchStatus": "Retired"
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "164331",
-                    "scores": [
-                        {
-                            "mainScore": "5",
-
-                        },
-                        {
-                            "mainScore": "1",
-
-                        },
-                        {
-                            "mainScore": "1",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "164336",
-                    "scores": [
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 59,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "164001",
-                    "scores": [
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "164006",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 26,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "164011",
-                    "scores": [
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "164016",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 29,
-
-
-        },
-        {
-
-            "roundIndex": 2,
-            "sides": [
-                {
-                    "contestantId": "163901",
-                    "scores": [
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "163956",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        }
                     ],
-
                 }
             ],
             "order": 4,
-
-
         },
         {
-
             "roundIndex": 0,
             "sides": [
                 {
-                    "contestantId": "163841",
+                    "contestantId": "08",
                     "scores": [
                         {
-                            "mainScore": "6",
-                            "isWinner": true
+                            "mainScore": 0,
                         },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
                     ],
-                    "isWinner": true
+                    "isWinner": false
                 },
                 {
-                    "contestantId": "163846",
+                    "contestantId": "09",
                     "scores": [
                         {
-                            "mainScore": "3",
-
+                            "mainScore": 0,
                         },
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        }
                     ],
-
-                }
-            ],
-            "order": 4,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "164261",
-                    "scores": [
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "4",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "164266",
-                    "scores": [
-                        {
-                            "mainScore": "5",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "5",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 11,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "163961",
-                    "scores": [
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "3",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "163966",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 3,
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 19,
-
-
-        },
-        {
-
-            "roundIndex": 1,
-            "sides": [
-                {
-                    "contestantId": "164371",
-                    "scores": [
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "3",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "164136",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 27,
-
-
-        },
-        {
-
-            "roundIndex": 1,
-            "sides": [
-                {
-                    "contestantId": "164031",
-                    "scores": [
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "5",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "164336",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 29,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "164231",
-                    "scores": [
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 5,
-
-                        },
-                        {
-                            "mainScore": "5",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "164236",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 28,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "164351",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "164356",
-                    "scores": [
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 5,
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 20,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "164361",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "164366",
-                    "scores": [
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "3",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 21,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "164371",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "subscore": 5,
-
-                        },
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "3",
-
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "164376",
-                    "scores": [
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "5",
-
-                        },
-                        {
-                            "mainScore": "0",
-
-                        },
-                        {
-                            "mainScore": "0",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 54,
-
-            "matchStatus": "R"
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "163801",
-                    "scores": [
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "163806",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 47,
-
-
-        },
-        {
-
-            "roundIndex": 2,
-            "sides": [
-                {
-                    "contestantId": "163911",
-                    "scores": [
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "163926",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "subscore": 1,
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "2",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 0,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "164301",
-                    "scores": [
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "164306",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 61,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "164401",
-                    "scores": [
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "164406",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "subscore": 2,
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 5,
-
-                        },
-                        {
-                            "mainScore": "1",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 38,
-
-
-        },
-        {
-
-            "roundIndex": 2,
-            "sides": [
-                {
-                    "contestantId": "164351",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "1",
-
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "164226",
-                    "scores": [
-                        {
-                            "mainScore": "0",
-
-                        },
-                        {
-                            "mainScore": "0",
-
-                        }
-                    ],
-
                 }
             ],
             "order": 5,
-
-            "matchStatus": "Retired"
         },
         {
-
             "roundIndex": 0,
             "sides": [
                 {
-                    "contestantId": "164321",
+                    "contestantId": "10",
                     "scores": [
                         {
-                            "mainScore": "4",
-
+                            "mainScore": 0,
                         },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
                     ],
-                    "isWinner": true
+                    "isWinner": false
                 },
                 {
-                    "contestantId": "164326",
+                    "contestantId": "11",
                     "scores": [
                         {
-                            "mainScore": "6",
-                            "isWinner": true
+                            "mainScore": 0,
                         },
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "2",
-
-                        }
                     ],
-
-                }
-            ],
-            "order": 41,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "163941",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "5",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "3",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "163946",
-                    "scores": [
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 8,
-
-
-        },
-        {
-
-            "roundIndex": 3,
-            "sides": [
-                {
-                    "contestantId": "164141",
-                    "scores": [
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "2",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "164396",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 7,
-
-
-        },
-        {
-
-            "roundIndex": 1,
-            "sides": [
-                {
-                    "contestantId": "164116",
-                    "scores": [
-                        {
-                            "mainScore": "5",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "163896",
-                    "scores": [
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 7,
-
-
-        },
-        {
-
-            "roundIndex": 2,
-            "sides": [
-                {
-                    "contestantId": "164341",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "5",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "164311",
-                    "scores": [
-                        {
-                            "mainScore": "1",
-
-                        },
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 9,
-
-
-        },
-        {
-
-            "roundIndex": 2,
-            "sides": [
-                {
-                    "contestantId": "163871",
-                    "scores": [
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "163976",
-                    "scores": [
-                        {
-                            "mainScore": "5",
-
-                        },
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 8,
-
-
-        },
-        {
-
-            "roundIndex": 2,
-            "sides": [
-                {
-                    "contestantId": "164016",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "163986",
-                    "scores": [
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 7,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "164121",
-                    "scores": [
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "2",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "164126",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 27,
-
-
-        },
-        {
-
-            "roundIndex": 3,
-            "sides": [
-                {
-                    "contestantId": "164021",
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "164136",
-
                 }
             ],
             "order": 6,
-
-            "matchStatus": "Walk-Over"
         },
         {
-
             "roundIndex": 0,
             "sides": [
                 {
-                    "contestantId": "163951",
+                    "contestantId": "12",
                     "scores": [
                         {
-                            "mainScore": "4",
-
+                            "mainScore": 0,
                         },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        }
                     ],
-
+                    "isWinner": false
                 },
                 {
-                    "contestantId": "163956",
+                    "contestantId": "13",
                     "scores": [
                         {
-                            "mainScore": "6",
-                            "isWinner": true
+                            "mainScore": 0,
                         },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
                     ],
-                    "isWinner": true
                 }
             ],
-            "order": 18,
-
-
+            "order": 7,
+        },
+// West Region
+{
+    "roundIndex": 0,
+    "sides": [
+        {
+            "contestantId": "14",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false
         },
         {
-
-            "roundIndex": 0,
-            "sides": [
+            "contestantId": "15",
+            "scores": [
                 {
-                    "contestantId": "164091",
-                    "scores": [
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
+                    "mainScore": 0,
                 },
-                {
-                    "contestantId": "164096",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "5",
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        }
-                    ],
-
-                }
             ],
-            "order": 51,
-
-
-        },
-        {
-
-            "roundIndex": 1,
-            "sides": [
-                {
-                    "contestantId": "164176",
-                    "scores": [
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "3",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "164321",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "1",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 5,
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 20,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "164051",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "164056",
-                    "scores": [
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "5",
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 53,
-
-
-        },
-        {
-
-            "roundIndex": 1,
-            "sides": [
-                {
-                    "contestantId": "164181",
-                    "scores": [
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "5",
-
-                        },
-                        {
-                            "mainScore": "1",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "163806",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 23,
-
-
-        },
-        {
-
-            "roundIndex": 1,
-            "sides": [
-                {
-                    "contestantId": "164241",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "5",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "163791",
-                    "scores": [
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "1",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 22,
-
-
-        },
-        {
-
-            "roundIndex": 1,
-            "sides": [
-                {
-                    "contestantId": "163811",
-                    "scores": [
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "1",
-
-                        },
-                        {
-                            "mainScore": "1",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "164196",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "subscore": 1,
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 3,
-
-
-        },
-        {
-
-            "roundIndex": 2,
-            "sides": [
-                {
-                    "contestantId": "164071",
-                    "scores": [
-                        {
-                            "mainScore": "5",
-
-                        },
-                        {
-                            "mainScore": "5",
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "164126",
-                    "scores": [
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 6,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "164031",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "164036",
-                    "scores": [
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "2",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 58,
-
-
-        },
-        {
-
-            "roundIndex": 1,
-            "sides": [
-                {
-                    "contestantId": "164156",
-                    "scores": [
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "164306",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "5",
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 3,
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 30,
-
-
-        },
-        {
-
-            "roundIndex": 2,
-            "sides": [
-                {
-                    "contestantId": "164321",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "subscore": 7,
-
-                        },
-                        {
-                            "mainScore": "1",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "163851",
-                    "scores": [
-                        {
-                            "mainScore": "7",
-                            "subscore": 9,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 10,
-
-
-        },
-        {
-
-            "roundIndex": 3,
-            "sides": [
-                {
-                    "contestantId": "163851",
-                    "scores": [
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "163806",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 5,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "164381",
-                    "scores": [
-                        {
-                            "mainScore": "1",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "164386",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 50,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "164061",
-                    "scores": [
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "164066",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 3,
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 22,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "164141",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "164146",
-                    "scores": [
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 56,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "164131",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "subscore": 9,
-
-                        },
-                        {
-                            "mainScore": "5",
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "164136",
-                    "scores": [
-                        {
-                            "mainScore": "7",
-                            "subscore": 11,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 55,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "163981",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "subscore": 3,
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "2",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "163986",
-                    "scores": [
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 31,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "167131",
-                    "scores": [
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "163886",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "0",
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 30,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "164081",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "164086",
-                    "scores": [
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "1",
-
-                        },
-                        {
-                            "mainScore": "1",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 49,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "164221",
-                    "scores": [
-                        {
-                            "mainScore": "5",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 4,
-
-                        },
-                        {
-                            "mainScore": "2",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "164226",
-                    "scores": [
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 23,
-
-
-        },
-        {
-
-            "roundIndex": 3,
-            "sides": [
-                {
-                    "contestantId": "163871",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "0",
-
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "164341",
-                    "scores": [
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 3,
-
-                        },
-                        {
-                            "mainScore": "0",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 4,
-
-            "matchStatus": "Retired"
-        },
-        {
-
-            "roundIndex": 3,
-            "sides": [
-                {
-                    "contestantId": "164126",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "164016",
-                    "scores": [
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "1",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 3,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "164201",
-                    "scores": [
-                        {
-                            "mainScore": "7",
-                            "subscore": 8,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "164206",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "subscore": 6,
-
-                        },
-                        {
-                            "mainScore": "1",
-
-                        },
-                        {
-                            "mainScore": "2",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 33,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "163971",
-                    "scores": [
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 4,
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "163976",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "subscore": 1,
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 34,
-
-
-        },
-        {
-
-            "roundIndex": 2,
-            "sides": [
-                {
-                    "contestantId": "164241",
-                    "scores": [
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "0",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "163806",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 11,
-
-
-        },
-        {
-
-            "roundIndex": 1,
-            "sides": [
-                {
-                    "contestantId": "163946",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 5,
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "163826",
-                    "scores": [
-                        {
-                            "mainScore": "1",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 4,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "164291",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 4,
-
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "164296",
-                    "scores": [
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 7,
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 2,
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 52,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "164071",
-                    "scores": [
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "164076",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "4",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 24,
-
-
-        },
-        {
-
-            "roundIndex": 1,
-            "sides": [
-                {
-                    "contestantId": "164281",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "163861",
-                    "scores": [
-                        {
-                            "mainScore": "1",
-
-                        },
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 6,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "163871",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "163876",
-                    "scores": [
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 32,
-
-
-        },
-        {
-
-            "roundIndex": 1,
-            "sides": [
-                {
-                    "contestantId": "164141",
-                    "scores": [
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "7",
-                            "subscore": 14,
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                },
-                {
-                    "contestantId": "164046",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "2",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "3",
-
-                        },
-                        {
-                            "mainScore": "6",
-                            "subscore": 12,
-
-                        }
-                    ],
-
-                }
-            ],
-            "order": 28,
-
-
-        },
-        {
-
-            "roundIndex": 1,
-            "sides": [
-                {
-                    "contestantId": "164101",
-                    "scores": [
-                        {
-                            "mainScore": "1",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "2",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "164396",
-                    "scores": [
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 31,
-
-
-        },
-        {
-
-            "roundIndex": 0,
-            "sides": [
-                {
-                    "contestantId": "164211",
-                    "scores": [
-                        {
-                            "mainScore": "5",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        },
-                        {
-                            "mainScore": "4",
-
-                        }
-                    ],
-
-                },
-                {
-                    "contestantId": "164216",
-                    "scores": [
-                        {
-                            "mainScore": "7",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        },
-                        {
-                            "mainScore": "6",
-                            "isWinner": true
-                        }
-                    ],
-                    "isWinner": true
-                }
-            ],
-            "order": 35,
-
-
         }
     ],
+    "order": 8,
+},
+{
+    "roundIndex": 0,
+    "sides": [
+        {
+            "contestantId": "16",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false
+        },
+        {
+            "contestantId": "17",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+        }
+    ],
+    "order": 9,
+},
+{
+    "roundIndex": 0,
+    "sides": [
+        {
+            "contestantId": "18",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false
+        },
+        {
+            "contestantId": "19",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+        }
+    ],
+    "order": 10,
+},
+{
+    "roundIndex": 0,
+    "sides": [
+        {
+            "contestantId": "20",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false
+        },
+        {
+            "contestantId": "21",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+        }
+    ],
+    "order": 11,
+},
+{
+    "roundIndex": 0,
+    "sides": [
+        {
+            "contestantId": "22",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false
+        },
+        {
+            "contestantId": "23",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+        }
+    ],
+    "order": 12,
+},
+{
+    "roundIndex": 0,
+    "sides": [
+        {
+            "contestantId": "24",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false
+        },
+        {
+            "contestantId": "25",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+        }
+    ],
+    "order": 13,
+},
+{
+    "roundIndex": 0,
+    "sides": [
+        {
+            "contestantId": "26",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false
+        },
+        {
+            "contestantId": "27",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+        }
+    ],
+    "order": 14,
+},
+{
+    "roundIndex": 0,
+    "sides": [
+        {
+            "contestantId": "28",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false
+        },
+        {
+            "contestantId": "29",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+        }
+    ],
+    "order": 15,
+},
+// East Region
+{
+    "roundIndex": 0,
+    "sides": [
+        {
+            "contestantId": "30",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false
+        },
+        {
+            "contestantId": "",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+        }
+    ],
+    "order": 16,
+},
+{
+    "roundIndex": 0,
+    "sides": [
+        {
+            "contestantId": "31",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false
+        },
+        {
+            "contestantId": "32",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+        }
+    ],
+    "order": 17,
+},
+{
+    "roundIndex": 0,
+    "sides": [
+        {
+            "contestantId": "33",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false
+        },
+        {
+            "contestantId": "34",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+        }
+    ],
+    "order": 18,
+},
+{
+    "roundIndex": 0,
+    "sides": [
+        {
+            "contestantId": "35",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false
+        },
+        {
+            "contestantId": "36",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+        }
+    ],
+    "order": 19,
+},
+{
+    "roundIndex": 0,
+    "sides": [
+        {
+            "contestantId": "37",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false
+        },
+        {
+            "contestantId": "38",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+        }
+    ],
+    "order": 20,
+},
+{
+    "roundIndex": 0,
+    "sides": [
+        {
+            "contestantId": "39",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false
+        },
+        {
+            "contestantId": "40",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+        }
+    ],
+    "order": 21,
+},
+{
+    "roundIndex": 0,
+    "sides": [
+        {
+            "contestantId": "41",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false
+        },
+        {
+            "contestantId": "42",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+        }
+    ],
+    "order": 22,
+},
+{
+    "roundIndex": 0,
+    "sides": [
+        {
+            "contestantId": "43",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false
+        },
+        {
+            "contestantId": "44",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+        }
+    ],
+    "order": 23,
+},
+// Midwest Region
+{
+    "roundIndex": 0,
+    "sides": [
+        {
+            "contestantId": "45",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false
+        },
+        {
+            "contestantId": "46",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+        }
+    ],
+    "order": 24,
+},
+{
+    "roundIndex": 0,
+    "sides": [
+        {
+            "contestantId": "47",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false
+        },
+        {
+            "contestantId": "48",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+        }
+    ],
+    "order": 25,
+},
+{
+    "roundIndex": 0,
+    "sides": [
+        {
+            "contestantId": "49",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false
+        },
+        {
+            "contestantId": "50",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+        }
+    ],
+    "order": 26,
+},
+{
+    "roundIndex": 0,
+    "sides": [
+        {
+            "contestantId": "51",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false
+        },
+        {
+            "contestantId": "52",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+        }
+    ],
+    "order": 27,
+},
+{
+    "roundIndex": 0,
+    "sides": [
+        {
+            "contestantId": "53",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false
+        },
+        {
+            "contestantId": "",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+        }
+    ],
+    "order": 28,
+},
+{
+    "roundIndex": 0,
+    "sides": [
+        {
+            "contestantId": "54",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false
+        },
+        {
+            "contestantId": "55",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+        }
+    ],
+    "order": 29,
+},
+{
+    "roundIndex": 0,
+    "sides": [
+        {
+            "contestantId": "56",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false
+        },
+        {
+            "contestantId": "57",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+        }
+    ],
+    "order": 30,
+},
+{
+    "roundIndex": 0,
+    "sides": [
+        {
+            "contestantId": "58",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false
+        },
+        {
+            "contestantId": "59",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+        }
+    ],
+    "order": 31,
+},
+    ],
+
+// Teams
+
     "contestants": {
-        "163771": {
-            "players": [
-                {
-                    "title": "F. Tiafoe",
-                    "nationality": "US",
-                }
-            ]
-        },
-        "163781": {
-            "players": [
-                {
-                    "title": "G. Pella",
-                    "nationality": "AR",
-                }
-            ]
-        },
-        "163786": {
-            "entryStatus": "22",
-            "players": [
-                {
-                    "title": "B. Coric",
-                    "nationality": "HR",
-                }
-            ]
-        },
-        "163791": {
-            "players": [
-                {
-                    "title": "P. Andujar",
-                    "nationality": "ES",
-                }
-            ]
-        },
-        "163796": {
-            "entryStatus": "Q",
-            "players": [
-                {
-                    "title": "Q. Halys",
-                    "nationality": "FR",
-                }
-            ]
-        },
-        "163801": {
-            "players": [
-                {
-                    "title": "V. Pospisil",
-                    "nationality": "CA",
-                }
-            ]
-        },
-        "163806": {
-            "entryStatus": "4",
-            "players": [
-                {
-                    "title": "D. Medvedev",
-                    "nationality": "RU",
-                }
-            ]
-        },
-        "163811": {
-            "players": [
-                {
-                    "title": "C. Moutet",
-                    "nationality": "FR",
-                }
-            ]
-        },
-        "163816": {
-            "players": [
-                {
-                    "title": "J. Millman",
-                    "nationality": "AU",
-
-                }
-            ]
-        },
-        "163821": {
-            "players": [
-                {
-                    "title": "Y. Nishioka",
-                    "nationality": "JP",
-
-                }
-            ]
-        },
-        "163826": {
-            "players": [
-                {
-                    "title": "P. Martinez",
-                    "nationality": "ES",
-
-                }
-            ]
-        },
-        "163831": {
-            "players": [
-                {
-                    "title": "R. Opelka",
-                    "nationality": "US",
-
-                }
-            ]
-        },
-        "163836": {
-            "players": [
-                {
-                    "title": "Y. Lu",
-                    "nationality": "TW",
-
-                }
-            ]
-        },
-        "163841": {
-            "entryStatus": "17",
-            "players": [
-                {
-                    "title": "S. Wawrinka",
-                    "nationality": "CH",
-
-                }
-            ]
-        },
-        "163846": {
-            "players": [
-                {
-                    "title": "P. Sousa",
-                    "nationality": "PT",
-
-                }
-            ]
-        },
-        "163851": {
-            "players": [
-                {
-                    "title": "M. McDonald",
-                    "nationality": "US",
-
-                }
-            ]
-        },
-        "163856": {
-            "players": [
-                {
-                    "title": "M. Cecchinato",
-                    "nationality": "IT",
-
-                }
-            ]
-        },
-        "163861": {
-            "players": [
-                {
-                    "title": "M. Kecmanovic",
-                    "nationality": "RS",
-
-                }
-            ]
-        },
-        "163866": {
-            "players": [
-                {
-                    "title": "K. Majchrzak",
-                    "nationality": "PL",
-
-                }
-            ]
-        },
-        "163871": {
-            "entryStatus": "7",
-            "players": [
-                {
-                    "title": "A. Rublev",
-                    "nationality": "RU",
-
-                }
-            ]
-        },
-        "163876": {
-            "players": [
-                {
-                    "title": "Y. Hanfmann",
-                    "nationality": "DE",
-
-                }
-            ]
-        },
-        "163886": {
-            "players": [
-                {
-                    "title": "J. Londero",
-                    "nationality": "AR",
-
-                }
-            ]
-        },
-        "163891": {
-            "players": [
-                {
-                    "title": "M. Giron",
-                    "nationality": "US",
-
-                }
-            ]
-        },
-        "163896": {
-            "entryStatus": "6",
-            "players": [
-                {
-                    "title": "A. Zverev",
-                    "nationality": "DE",
-
-                }
-            ]
-        },
-        "163901": {
-            "entryStatus": "3",
-            "players": [
-                {
-                    "title": "D. Thiem",
-                    "nationality": "AT",
-
-                }
-            ]
-        },
-        "163906": {
-            "players": [
-                {
-                    "title": "M. Kukushkin",
-                    "nationality": "KZ",
-
-                }
-            ]
-        },
-        "163911": {
+        "00": {
             "entryStatus": "1",
             "players": [
                 {
-                    "title": "N. Djokovic",
-                    "nationality": "RS",
-
+                    "title": "Auburn",
+                    "nationality": "Auburn",
                 }
             ]
         },
-        "163921": {
-            "players": [
-                {
-                    "title": "A. Ramos-Vinolas",
-                    "nationality": "ES",
-
-                }
-            ]
-        },
-        "163926": {
-            "entryStatus": "27",
-            "players": [
-                {
-                    "title": "T. Fritz",
-                    "nationality": "US",
-
-                }
-            ]
-        },
-        "163931": {
-            "players": [
-                {
-                    "title": "M. Fucsovics",
-                    "nationality": "HU",
-
-                }
-            ]
-        },
-        "163936": {
-            "entryStatus": "WC",
-            "players": [
-                {
-                    "title": "M. Polmans",
-                    "nationality": "AU",
-
-                }
-            ]
-        },
-        "163941": {
-            "entryStatus": "10",
-            "players": [
-                {
-                    "title": "G. Monfils",
-                    "nationality": "FR",
-
-                }
-            ]
-        },
-        "163946": {
-            "players": [
-                {
-                    "title": "E. Ruusuvuori",
-                    "nationality": "FI",
-
-                }
-            ]
-        },
-        "163951": {
-            "entryStatus": "Q",
-            "players": [
-                {
-                    "title": "F. Ferreira Silva",
-                    "nationality": "PT",
-
-                }
-            ]
-        },
-        "163956": {
-            "players": [
-                {
-                    "title": "N. Kyrgios",
-                    "nationality": "AU",
-
-                }
-            ]
-        },
-        "163961": {
-            "players": [
-                {
-                    "title": "Y. Uchiyama",
-                    "nationality": "JP",
-
-                }
-            ]
-        },
-        "163966": {
-            "entryStatus": "29",
-            "players": [
-                {
-                    "title": "U. Humbert",
-                    "nationality": "FR",
-
-                }
-            ]
-        },
-        "163971": {
-            "entryStatus": "WC",
-            "players": [
-                {
-                    "title": "L. Tu",
-                    "nationality": "AU",
-
-                }
-            ]
-        },
-        "163976": {
-            "players": [
-                {
-                    "title": "F. Lopez",
-                    "nationality": "ES",
-
-                }
-            ]
-        },
-        "163981": {
-            "entryStatus": "Q",
-            "players": [
-                {
-                    "title": "E. Ymer",
-                    "nationality": "SE",
-
-                }
-            ]
-        },
-        "163986": {
+        "01": {
             "entryStatus": "8",
             "players": [
                 {
-                    "title": "D. Schwartzman",
-                    "nationality": "AR",
-
+                    "title": "Louisville",
+                    "nationality": "Louisville",
                 }
             ]
         },
-        "163991": {
-            "players": [
-                {
-                    "title": "Y. Sugita",
-                    "nationality": "JP",
-
-                }
-            ]
-        },
-        "163996": {
-            "entryStatus": "Q",
-            "players": [
-                {
-                    "title": "B. Tomic",
-                    "nationality": "AU",
-
-                }
-            ]
-        },
-        "164001": {
-            "entryStatus": "LL",
-            "players": [
-                {
-                    "title": "D. Dzumhur",
-                    "nationality": "BA",
-
-                }
-            ]
-        },
-        "164006": {
-            "players": [
-                {
-                    "title": "J. Duckworth",
-                    "nationality": "AU",
-
-                }
-            ]
-        },
-        "164011": {
-            "players": [
-                {
-                    "title": "G. Mager",
-                    "nationality": "IT",
-
-                }
-            ]
-        },
-        "164016": {
-            "entryStatus": "Q",
-            "players": [
-                {
-                    "title": "A. Karatsev",
-                    "nationality": "RU",
-
-                }
-            ]
-        },
-        "164021": {
-            "entryStatus": "5",
-            "players": [
-                {
-                    "title": "S. Tsitsipas",
-                    "nationality": "GR",
-                }
-            ]
-        },
-        "164026": {
-            "players": [
-                {
-                    "title": "G. Simon",
-                    "nationality": "FR",
-                }
-            ]
-        },
-        "164031": {
-            "players": [
-                {
-                    "title": "P. Cuevas",
-                    "nationality": "UY",
-                }
-            ]
-        },
-        "164036": {
-            "players": [
-                {
-                    "title": "A. Seppi",
-                    "nationality": "IT",
-                }
-            ]
-        },
-        "164041": {
-            "entryStatus": "Q",
-            "players": [
-                {
-                    "title": "H. Laaksonen",
-                    "nationality": "CH",
-                }
-            ]
-        },
-        "164046": {
-            "players": [
-                {
-                    "title": "S. Caruso",
-                    "nationality": "IT",
-                }
-            ]
-        },
-        "164051": {
-            "players": [
-                {
-                    "title": "R. Berankis",
-                    "nationality": "LT",
-                }
-            ]
-        },
-        "164056": {
-            "entryStatus": "WC",
-            "players": [
-                {
-                    "title": "S. Nagal",
-                    "nationality": "IN",
-                }
-            ]
-        },
-        "164061": {
-            "entryStatus": "Q",
-            "players": [
-                {
-                    "title": "K. Coppejans",
-                    "nationality": "BE",
-                }
-            ]
-        },
-        "164066": {
-            "players": [
-                {
-                    "title": "J. Vesely",
-                    "nationality": "CZ",
-                }
-            ]
-        },
-        "164071": {
-            "entryStatus": "11",
-            "players": [
-                {
-                    "title": "D. Shapovalov",
-                    "nationality": "CA",
-
-                }
-            ]
-        },
-        "164076": {
-            "players": [
-                {
-                    "title": "J. Sinner",
-                    "nationality": "IT",
-
-                }
-            ]
-        },
-        "164081": {
-            "entryStatus": "WC",
-            "players": [
-                {
-                    "title": "T. Kokkinakis",
-                    "nationality": "AU",
-
-                }
-            ]
-        },
-        "164086": {
-            "players": [
-                {
-                    "title": "S. Kwon",
-                    "nationality": "KR",
-
-                }
-            ]
-        },
-        "164091": {
-            "players": [
-                {
-                    "title": "M. Ymer",
-                    "nationality": "SE",
-
-                }
-            ]
-        },
-        "164096": {
-            "entryStatus": "26",
-            "players": [
-                {
-                    "title": "H. Hurkacz",
-                    "nationality": "PL",
-
-                }
-            ]
-        },
-        "164101": {
-            "entryStatus": "Q",
-            "players": [
-                {
-                    "title": "M. Mmoh",
-                    "nationality": "US",
-
-                }
-            ]
-        },
-        "164106": {
-            "entryStatus": "Q",
-            "players": [
-                {
-                    "title": "V. Troicki",
-                    "nationality": "RS",
-
-                }
-            ]
-        },
-        "164111": {
-            "entryStatus": "LL",
-            "players": [
-                {
-                    "title": "T. Daniel",
-                    "nationality": "JP",
-
-                }
-            ]
-        },
-        "164116": {
-            "entryStatus": "Q",
-            "players": [
-                {
-                    "title": "M. Cressy",
-                    "nationality": "US",
-
-                }
-            ]
-        },
-        "164121": {
-            "entryStatus": "LL",
-            "players": [
-                {
-                    "title": "C. Stebe",
-                    "nationality": "DE",
-
-                }
-            ]
-        },
-        "164126": {
-            "entryStatus": "20",
-            "players": [
-                {
-                    "title": "F. Auger-Aliassime",
-                    "nationality": "CA",
-
-                }
-            ]
-        },
-        "164131": {
-            "players": [
-                {
-                    "title": "K. Anderson",
-                    "nationality": "ZA",
-
-                }
-            ]
-        },
-        "164136": {
+        "02": {
             "entryStatus": "9",
             "players": [
                 {
-                    "title": "M. Berrettini",
-                    "nationality": "IT",
-
+                    "title": "Creighton",
+                    "nationality": "Creighton",
                 }
             ]
         },
-        "164141": {
-            "entryStatus": "16",
+        "03": {
+            "entryStatus": "5",
             "players": [
                 {
-                    "title": "F. Fognini",
-                    "nationality": "IT",
-
+                    "title": "Michigan",
+                    "nationality": "Michigan",
                 }
             ]
         },
-        "164146": {
-            "players": [
-                {
-                    "title": "P. Herbert",
-                    "nationality": "FR",
-
-                }
-            ]
-        },
-        "164151": {
-            "entryStatus": "30",
-            "players": [
-                {
-                    "title": "D. Evans",
-                    "nationality": "GB",
-
-                }
-            ]
-        },
-        "164156": {
-            "players": [
-                {
-                    "title": "C. Norrie",
-                    "nationality": "GB",
-
-                }
-            ]
-        },
-        "164161": {
-            "players": [
-                {
-                    "title": "N. Basilashvili",
-                    "nationality": "GE",
-
-                }
-            ]
-        },
-        "164166": {
-            "players": [
-                {
-                    "title": "T. Paul",
-                    "nationality": "US",
-
-                }
-            ]
-        },
-        "164171": {
-            "entryStatus": "13",
-            "players": [
-                {
-                    "title": "D. Goffin",
-                    "nationality": "BE",
-
-                }
-            ]
-        },
-        "164176": {
-            "entryStatus": "WC",
-            "players": [
-                {
-                    "title": "A. Popyrin",
-                    "nationality": "AU",
-
-                }
-            ]
-        },
-        "164181": {
-            "players": [
-                {
-                    "title": "R. Carballes Baena",
-                    "nationality": "ES",
-
-                }
-            ]
-        },
-        "164186": {
-            "players": [
-                {
-                    "title": "A. Balazs",
-                    "nationality": "HU",
-
-                }
-            ]
-        },
-        "164191": {
-            "players": [
-                {
-                    "title": "F. Coria",
-                    "nationality": "AR",
-
-                }
-            ]
-        },
-        "164196": {
-            "entryStatus": "14",
-            "players": [
-                {
-                    "title": "M. Raonic",
-                    "nationality": "CA",
-
-                }
-            ]
-        },
-        "164201": {
-            "players": [
-                {
-                    "title": "T. Monteiro",
-                    "nationality": "BR",
-
-                }
-            ]
-        },
-        "164206": {
-            "players": [
-                {
-                    "title": "A. Martin",
-                    "nationality": "SK",
-
-                }
-            ]
-        },
-        "164211": {
-            "players": [
-                {
-                    "title": "S. Querrey",
-                    "nationality": "US",
-
-                }
-            ]
-        },
-        "164216": {
-            "entryStatus": "31",
-            "players": [
-                {
-                    "title": "L. Sonego",
-                    "nationality": "IT",
-
-                }
-            ]
-        },
-        "164221": {
-            "players": [
-                {
-                    "title": "K. Nishikori",
-                    "nationality": "JP",
-
-                }
-            ]
-        },
-        "164226": {
-            "entryStatus": "15",
-            "players": [
-                {
-                    "title": "P. Carreno Busta",
-                    "nationality": "ES",
-
-                }
-            ]
-        },
-        "164231": {
-            "entryStatus": "25",
-            "players": [
-                {
-                    "title": "B. Paire",
-                    "nationality": "FR",
-
-                }
-            ]
-        },
-        "164236": {
-            "players": [
-                {
-                    "title": "E. Gerasimov",
-                    "nationality": "BY",
-
-                }
-            ]
-        },
-        "164241": {
-            "entryStatus": "28",
-            "players": [
-                {
-                    "title": "F. Krajinovic",
-                    "nationality": "RS",
-
-                }
-            ]
-        },
-        "164246": {
-            "entryStatus": "LL",
-            "players": [
-                {
-                    "title": "R. Haase",
-                    "nationality": "NL",
-
-                }
-            ]
-        },
-        "164251": {
-            "players": [
-                {
-                    "title": "A. Bedene",
-                    "nationality": "SI",
-
-                }
-            ]
-        },
-        "164256": {
-            "players": [
-                {
-                    "title": "A. Bublik",
-                    "nationality": "KZ",
-
-                }
-            ]
-        },
-        "164261": {
-            "entryStatus": "Q",
-            "players": [
-                {
-                    "title": "S. Stakhovsky",
-                    "nationality": "UA",
-
-                }
-            ]
-        },
-        "164266": {
-            "entryStatus": "23",
-            "players": [
-                {
-                    "title": "D. Lajovic",
-                    "nationality": "RS",
-
-                }
-            ]
-        },
-        "164271": {
-            "players": [
-                {
-                    "title": "D. Koepfer",
-                    "nationality": "DE",
-
-                }
-            ]
-        },
-        "164276": {
-            "entryStatus": "LL",
-            "players": [
-                {
-                    "title": "H. Dellien",
-                    "nationality": "BO",
-
-                }
-            ]
-        },
-        "164281": {
-            "entryStatus": "32",
-            "players": [
-                {
-                    "title": "A. Mannarino",
-                    "nationality": "FR",
-
-                }
-            ]
-        },
-        "164286": {
-            "players": [
-                {
-                    "title": "D. Novak",
-                    "nationality": "AT",
-
-                }
-            ]
-        },
-        "164291": {
-            "entryStatus": "19",
-            "players": [
-                {
-                    "title": "K. Khachanov",
-                    "nationality": "RU",
-
-                }
-            ]
-        },
-        "164296": {
-            "entryStatus": "WC",
-            "players": [
-                {
-                    "title": "A. Vukic",
-                    "nationality": "AU",
-
-                }
-            ]
-        },
-        "164301": {
-            "players": [
-                {
-                    "title": "I. Ivashka",
-                    "nationality": "BY",
-
-                }
-            ]
-        },
-        "164306": {
-            "entryStatus": "Q",
-            "players": [
-                {
-                    "title": "R. Safiullin",
-                    "nationality": "RU",
-
-                }
-            ]
-        },
-        "164311": {
-            "players": [
-                {
-                    "title": "R. Albot",
-                    "nationality": "MD",
-
-                }
-            ]
-        },
-        "164316": {
+        "04": {
             "entryStatus": "12",
             "players": [
                 {
-                    "title": "R. Bautista Agut",
-                    "nationality": "ES",
-
+                    "title": "UC San Diego",
+                    "nationality": "UC-San-Diego",
                 }
             ]
         },
-        "164321": {
+        "05": {
+            "entryStatus": "4",
             "players": [
                 {
-                    "title": "L. Harris",
-                    "nationality": "ZA",
-
+                    "title": "Texas A&M",
+                    "nationality": "Texas-AM",
                 }
             ]
         },
-        "164326": {
-            "entryStatus": "LL",
+        "06": {
+            "entryStatus": "13",
             "players": [
                 {
-                    "title": "M. Torpegaard",
-                    "nationality": "DK",
-
+                    "title": "Yale",
+                    "nationality": "Yale",
                 }
             ]
         },
-        "164331": {
+        "07": {
+            "entryStatus": "6",
             "players": [
                 {
-                    "title": "T. Sandgren",
-                    "nationality": "US",
-
+                    "title": "Ole Miss",
+                    "nationality": "Ole-Miss",
                 }
             ]
         },
-        "164336": {
-            "entryStatus": "21",
+        "08": {
+            "entryStatus": "3",
             "players": [
                 {
-                    "title": "A. de Minaur",
-                    "nationality": "AU",
-
+                    "title": "Iowa State",
+                    "nationality": "Iowa-St",
                 }
             ]
         },
-        "164341": {
-            "entryStatus": "24",
+        "09": {
+            "entryStatus": "14",
             "players": [
                 {
-                    "title": "C. Ruud",
-                    "nationality": "NO",
-
+                    "title": "Lipscomb",
+                    "nationality": "Lipscomb",
                 }
             ]
         },
-        "164346": {
+        "10": {
+            "entryStatus": "7",
             "players": [
                 {
-                    "title": "J. Thompson",
-                    "nationality": "AU",
-
+                    "title": "Marquette",
+                    "nationality": "Marquette"
                 }
             ]
         },
-        "164351": {
-            "entryStatus": "18",
+        "11": {
+            "entryStatus": "10",
             "players": [
                 {
-                    "title": "G. Dimitrov",
-                    "nationality": "BG",
-
+                    "title": "New Mexico",
+                    "nationality": "New-Mexico",
                 }
             ]
         },
-        "164356": {
-            "players": [
-                {
-                    "title": "M. Cilic",
-                    "nationality": "HR",
-
-                }
-            ]
-        },
-        "164361": {
-            "entryStatus": "WC",
-            "players": [
-                {
-                    "title": "A. Bolt",
-                    "nationality": "AU",
-
-                }
-            ]
-        },
-        "164366": {
-            "players": [
-                {
-                    "title": "N. Gombos",
-                    "nationality": "SK",
-
-                }
-            ]
-        },
-        "164371": {
-            "entryStatus": "Q",
-            "players": [
-                {
-                    "title": "T. Machac",
-                    "nationality": "CZ",
-
-                }
-            ]
-        },
-        "164376": {
-            "entryStatus": "Q",
-            "players": [
-                {
-                    "title": "M. V. Martinez",
-                    "nationality": "ES",
-
-                }
-            ]
-        },
-        "164381": {
-            "entryStatus": "Q",
-            "players": [
-                {
-                    "title": "B. Van de Zandschulp",
-                    "nationality": "NL",
-
-                }
-            ]
-        },
-        "164386": {
-            "entryStatus": "Q",
-            "players": [
-                {
-                    "title": "C. Alcaraz",
-                    "nationality": "ES",
-
-                }
-            ]
-        },
-        "164391": {
-            "players": [
-                {
-                    "title": "L. Djere",
-                    "nationality": "RS",
-
-                }
-            ]
-        },
-        "164396": {
+        "12": {
             "entryStatus": "2",
             "players": [
                 {
-                    "title": "R. Nadal",
-                    "nationality": "ES",
-
+                    "title": "Michigan St.",
+                    "nationality": "Michigan-St",
                 }
             ]
         },
-        "164401": {
-            "entryStatus": "WC",
+        "13": {
+            "entryStatus": "15",
             "players": [
                 {
-                    "title": "C. O'Connell",
-                    "nationality": "AU",
-
+                    "title": "Bryant",
+                    "nationality": "Bryant",
                 }
             ]
         },
-        "164406": {
+        "14": {
+            "entryStatus": "1",
             "players": [
                 {
-                    "title": "J. Struff",
-                    "nationality": "DE",
-
+                    "title": "Florida",
+                    "nationality": "Florida",
                 }
             ]
         },
-        "167131": {
-            "entryStatus": "LL",
+        "15": {
+            "entryStatus": "16",
             "players": [
                 {
-                    "title": "A. Muller",
-                    "nationality": "FR",
-
+                    "title": "Norfolk St.",
+                    "nationality": "Norfolk-St",
                 }
             ]
-        }
+        },
+        "16": {
+            "entryStatus": "8",
+            "players": [
+                {
+                    "title": "UConn",
+                    "nationality": "UConn",
+                }
+            ]
+        },
+        "17": {
+            "entryStatus": "9",
+            "players": [
+                {
+                    "title": "Oklahoma",
+                    "nationality": "Oklahoma",
+                }
+            ]
+        },
+        "18": {
+            "entryStatus": "5",
+            "players": [
+                {
+                    "title": "Memphis",
+                    "nationality": "Memphis",
+                }
+            ]
+        },
+        "19": {
+            "entryStatus": "12",
+            "players": [
+                {
+                    "title": "Colorado St.",
+                    "nationality": "Colorado-St",
+                }
+            ]
+        },
+        "20": {
+            "entryStatus": "4",
+            "players": [
+                {
+                    "title": "Maryland",
+                    "nationality": "Maryland",
+                }
+            ]
+        },
+        "21": {
+            "entryStatus": "13",
+            "players": [
+                {
+                    "title": "Grand Canyon",
+                    "nationality": "Grand-Canyon",
+                }
+            ]
+        },
+        "22": {
+            "entryStatus": "6",
+            "players": [
+                {
+                    "title": "Missouri",
+                    "nationality": "Missouri",
+                }
+            ]
+        },
+        "23": {
+            "entryStatus": "11",
+            "players": [
+                {
+                    "title": "Drake",
+                    "nationality": "Drake",
+                }
+            ]
+        },
+        "24": {
+            "entryStatus": "3",
+            "players": [
+                {
+                    "title": "Texas Tech",
+                    "nationality": "Texas-Tech",
+                }
+            ]
+        },
+        "25": {
+            "entryStatus": "14",
+            "players": [
+                {
+                    "title": "UNC Wilmington",
+                    "nationality": "UNC-Wilmington",
+                }
+            ]
+        },
+        "26": {
+            "entryStatus": "7",
+            "players": [
+                {
+                    "title": "Kansas",
+                    "nationality": "Kansas",
+                }
+            ]
+        },
+        "27": {
+            "entryStatus": "10",
+            "players": [
+                {
+                    "title": "Arkansas",
+                    "nationality": "Arkansas",
+                }
+            ]
+        },
+        "28": {
+            "entryStatus": "2",
+            "players": [
+                {
+                    "title": "Saint John's",
+                    "nationality": "St-Johns-NY",
+                }
+            ]
+        },
+        "29": {
+            "entryStatus": "15",
+            "players": [
+                {
+                    "title": "Omaha",
+                    "nationality": "Neb-Omaha",
+                }
+            ]
+        },
+        "30": {
+            "entryStatus": "1",
+            "players": [
+                {
+                    "title": "Duke",
+                    "nationality": "Duke",
+                }
+            ]
+        },
+        "31": {
+            "entryStatus": "8",
+            "players": [
+                {
+                    "title": "Mississippi St.",
+                    "nationality": "Mississippi-St",
+                }
+            ]
+        },
+        "32": {
+            "entryStatus": "9",
+            "players": [
+                {
+                    "title": "Baylor",
+                    "nationality": "Baylor",
+                }
+            ]
+        },
+        "33": {
+            "entryStatus": "5",
+            "players": [
+                {
+                    "title": "Oregon",
+                    "nationality": "Oregon",
+                }
+            ]
+        },
+        "34": {
+            "entryStatus": "12",
+            "players": [
+                {
+                    "title": "Liberty",
+                    "nationality": "Liberty",
+                }
+            ]
+        },
+        "35": {
+            "entryStatus": "4",
+            "players": [
+                {
+                    "title": "Arizona",
+                    "nationality": "Arizona",
+                }
+            ]
+        },
+        "36": {
+            "entryStatus": "13",
+            "players": [
+                {
+                    "title": "Akron",
+                    "nationality": "Akron",
+                }
+            ]
+        },
+        "37": {
+            "entryStatus": "6",
+            "players": [
+                {
+                    "title": "BYU",
+                    "nationality": "BYU",
+                }
+            ]
+        },
+        "38": {
+            "entryStatus": "11",
+            "players": [
+                {
+                    "title": "VCU",
+                    "nationality": "VCU",
+                }
+            ]
+        },
+        "39": {
+            "entryStatus": "3",
+            "players": [
+                {
+                    "title": "Wisconsin",
+                    "nationality": "Wisconsin",
+                }
+            ]
+        },
+        "40": {
+            "entryStatus": "14",
+            "players": [
+                {
+                    "title": "Montana",
+                    "nationality": "Montana",
+                }
+            ]
+        },
+        "41": {
+            "entryStatus": "7",
+            "players": [
+                {
+                    "title": "Saint Mary's",
+                    "nationality": "St-Marys-CA",
+                }
+            ]
+        },
+        "42": {
+            "entryStatus": "10",
+            "players": [
+                {
+                    "title": "Vanderbilt",
+                    "nationality": "Vanderbilt",
+                }
+            ]
+        },
+        "43": {
+            "entryStatus": "2",
+            "players": [
+                {
+                    "title": "Alabama",
+                    "nationality": "Alabama",
+                }
+            ]
+        },
+        "44": {
+            "entryStatus": "15",
+            "players": [
+                {
+                    "title": "Robert Morris",
+                    "nationality": "Robert-Morris",
+                }
+            ]
+        },
+        "45": {
+            "entryStatus": "1",
+            "players": [
+                {
+                    "title": "Houston",
+                    "nationality": "Houston",
+                }
+            ]
+        },
+        "46": {
+            "entryStatus": "16",
+            "players": [
+                {
+                    "title": "SIU Edwardsville",
+                    "nationality": "SIU-Edwardsville",
+                }
+            ]
+        },
+        "47": {
+            "entryStatus": "8",
+            "players": [
+                {
+                    "title": "Gonzaga",
+                    "nationality": "Gonzaga",
+                }
+            ]
+        },
+        "48": {
+            "entryStatus": "9",
+            "players": [
+                {
+                    "title": "Georgia",
+                    "nationality": "Georgia",
+                }
+            ]
+        },
+        "49": {
+            "entryStatus": "5",
+            "players": [
+                {
+                    "title": "Clemson",
+                    "nationality": "Clemson",
+                }
+            ]
+        },
+        "50": {
+            "entryStatus": "12",
+            "players": [
+                {
+                    "title": "McNeese",
+                    "nationality": "McNeese",
+                }
+            ]
+        },
+        "51": {
+            "entryStatus": "4",
+            "players": [
+                {
+                    "title": "Purdue",
+                    "nationality": "Purdue",
+                }
+            ]
+        },
+        "52": {
+            "entryStatus": "13",
+            "players": [
+                {
+                    "title": "High Point",
+                    "nationality": "High-Point",
+                }
+            ]
+        },
+        "53": {
+            "entryStatus": "6",
+            "players": [
+                {
+                    "title": "Illinois",
+                    "nationality": "Illinois",
+                }
+            ]
+        },
+        "54": {
+            "entryStatus": "3",
+            "players": [
+                {
+                    "title": "Kentucky",
+                    "nationality": "Kentucky",
+                }
+            ]
+        },
+        "55": {
+            "entryStatus": "14",
+            "players": [
+                {
+                    "title": "Troy",
+                    "nationality": "Troy",
+                }
+            ]
+        },
+        "56": {
+            "entryStatus": "7",
+            "players": [
+                {
+                    "title": "UCLA",
+                    "nationality": "UCLA",
+                }
+            ]
+        },
+        "57": {
+            "entryStatus": "10",
+            "players": [
+                {
+                    "title": "Utah St.",
+                    "nationality": "Utah-St",
+                }
+            ]
+        },
+        "58": {
+            "entryStatus": "2",
+            "players": [
+                {
+                    "title": "Tennessee",
+                    "nationality": "Tennessee",
+                }
+            ]
+        },
+        "59": {
+            "entryStatus": "15",
+            "players": [
+                {
+                    "title": "Wofford",
+                    "nationality": "Wofford",
+                }
+            ]
+        },
+        "60": {
+            "entryStatus": "16",
+            "players": [
+                {
+                    "title": "",
+                }
+            ]
+        },
+        "61": {
+            "entryStatus": "11",
+            "players": [
+                {
+                    "title": "",
+                }
+            ]
+        },
+        "62": {
+            "entryStatus": "16",
+            "players": [
+                {
+                    "title": "",
+                }
+            ]
+        },
+        "63": {
+            "entryStatus": "11",
+            "players": [
+                {
+                    "title": "",
+                }
+            ]
+        },
     }
 }

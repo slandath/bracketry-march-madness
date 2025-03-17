@@ -1,5 +1,5 @@
 import { createBracket } from 'https://cdn.jsdelivr.net/npm/bracketry@latest/+esm'
-import tennis_singles from './data.mjs'
+import teams from './data.mjs'
 
 const mobileOptions = {
     navButtonsPosition: 'beforeTitles',
@@ -23,8 +23,9 @@ let options = {
     },
     getNationalityHTML: p => {
         return `<img style="width: 16px; visibility: ${p.nationality ? 'visible' : 'hidden'}"
-                src="https://flagcdn.com/16x12/${p.nationality?.toLowerCase()}.png">`
-    }
+                src="https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/${p.nationality?.toLowerCase()}.svg">`
+    },
+    visibleRoundsCount: 2
 }
 
 if (window.innerWidth < 700) {
@@ -32,7 +33,7 @@ if (window.innerWidth < 700) {
 }
 
 createBracket(
-    tennis_singles,
+    teams,
     document.querySelector('#bracketry-wrapper'),
     options
 )
