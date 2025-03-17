@@ -1,6 +1,8 @@
 import { createBracket } from 'bracketry'
 import teams from './data.js'
 
+document.addEventListener("DOMContentLoaded", getCurrentYear);
+
 const wrapper = document.querySelector('#bracketry-wrapper')
 
 const mobileOptions = {
@@ -24,8 +26,8 @@ let options = {
         return `<div style="width: 30px; text-align: center; color: #818181; font-size: 12px;">${es || ''}</div>`
     },
     getNationalityHTML: p => {
-        return `<img style="width: 16px; visibility: ${p.nationality ? 'visible' : 'hidden'}"
-                src="https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/${p.nationality?.toLowerCase()}.svg">`
+        return `<img style="width: 16px; visibility: ${p.logo ? 'visible' : 'hidden'}"
+                src="https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/${p.logo?.toLowerCase()}.svg">`
     },
     visibleRoundsCount: 2
 }
@@ -39,3 +41,11 @@ createBracket(
     wrapper,
     options
 )
+
+function getCurrentYear() {
+    const currentYear = new Date().getFullYear();
+    const yearId = document.getElementById("year");
+    if (yearId) {
+        yearId.textContent = currentYear;
+    }
+}

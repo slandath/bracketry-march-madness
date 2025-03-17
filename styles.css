@@ -8,13 +8,29 @@ html {
 }
 
 body {
-    margin: 2vh 2vw;
+    margin: 0;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    min-height: 100vh;
+    overflow: hidden;
+}
+
+footer {
+    padding: 1rem;
+    text-align: center;
+    background-color: #ccc;
+}
+
+header {
+    text-align: center;
+    background-color: #CCC;
 }
 
 .bracketry-wrapper {
-    height: 700px;
-    max-height: 96vh;
-    text-align: center;
+    display: flex;
+    margin: auto;
+    height: 80vh;
+    max-height: 800px
 }
 
 .bracketry-wrapper h1 { 
