@@ -1,9 +1,11 @@
-import { createBracket } from 'https://cdn.jsdelivr.net/npm/bracketry@latest/+esm'
-import teams from './data.mjs'
+import { createBracket } from 'bracketry'
+import teams from './data.js'
+
+const wrapper = document.querySelector('#bracketry-wrapper')
 
 const mobileOptions = {
     navButtonsPosition: 'beforeTitles',
-    visibleRoundsCount: 1,
+    visibleRoundsCount: 2,
     matchMaxWidth: 360,
     leftNavButtonHTML: `<div style="padding: 7px;">< PREV ROUND</div>`,
     rightNavButtonHTML: `<div style="padding: 7px;">NEXT ROUND ></div>`,
@@ -34,6 +36,6 @@ if (window.innerWidth < 700) {
 
 createBracket(
     teams,
-    document.querySelector('#bracketry-wrapper'),
+    wrapper,
     options
 )

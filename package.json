@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "dependencies": {
+    "bracketry": "^1.1.3"
+  },
+  "devDependencies": {
+    "vite": "^6.2.2"
+  },
+  "scripts": {
+    "dev": "vite"
+  }
+}
