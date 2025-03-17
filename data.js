@@ -763,7 +763,7 @@ export default {
             "players": [
                 {
                     "title": "Auburn",
-                    "nationality": "Auburn",
+                    "logo": "Auburn",
                 }
             ]
         },
@@ -772,7 +772,7 @@ export default {
             "players": [
                 {
                     "title": "Louisville",
-                    "nationality": "Louisville",
+                    "logo": "Louisville",
                 }
             ]
         },
@@ -781,7 +781,7 @@ export default {
             "players": [
                 {
                     "title": "Creighton",
-                    "nationality": "Creighton",
+                    "logo": "Creighton",
                 }
             ]
         },
@@ -790,7 +790,7 @@ export default {
             "players": [
                 {
                     "title": "Michigan",
-                    "nationality": "Michigan",
+                    "logo": "Michigan",
                 }
             ]
         },
@@ -799,7 +799,7 @@ export default {
             "players": [
                 {
                     "title": "UC San Diego",
-                    "nationality": "UC-San-Diego",
+                    "logo": "UC-San-Diego",
                 }
             ]
         },
@@ -808,7 +808,7 @@ export default {
             "players": [
                 {
                     "title": "Texas A&M",
-                    "nationality": "Texas-AM",
+                    "logo": "Texas-AM",
                 }
             ]
         },
@@ -817,7 +817,7 @@ export default {
             "players": [
                 {
                     "title": "Yale",
-                    "nationality": "Yale",
+                    "logo": "Yale",
                 }
             ]
         },
@@ -826,7 +826,7 @@ export default {
             "players": [
                 {
                     "title": "Ole Miss",
-                    "nationality": "Ole-Miss",
+                    "logo": "Ole-Miss",
                 }
             ]
         },
@@ -835,7 +835,7 @@ export default {
             "players": [
                 {
                     "title": "Iowa State",
-                    "nationality": "Iowa-St",
+                    "logo": "Iowa-St",
                 }
             ]
         },
@@ -844,7 +844,7 @@ export default {
             "players": [
                 {
                     "title": "Lipscomb",
-                    "nationality": "Lipscomb",
+                    "logo": "Lipscomb",
                 }
             ]
         },
@@ -853,7 +853,7 @@ export default {
             "players": [
                 {
                     "title": "Marquette",
-                    "nationality": "Marquette"
+                    "logo": "Marquette"
                 }
             ]
         },
@@ -862,7 +862,7 @@ export default {
             "players": [
                 {
                     "title": "New Mexico",
-                    "nationality": "New-Mexico",
+                    "logo": "New-Mexico",
                 }
             ]
         },
@@ -871,7 +871,7 @@ export default {
             "players": [
                 {
                     "title": "Michigan St.",
-                    "nationality": "Michigan-St",
+                    "logo": "Michigan-St",
                 }
             ]
         },
@@ -880,7 +880,7 @@ export default {
             "players": [
                 {
                     "title": "Bryant",
-                    "nationality": "Bryant",
+                    "logo": "Bryant",
                 }
             ]
         },
@@ -889,7 +889,7 @@ export default {
             "players": [
                 {
                     "title": "Florida",
-                    "nationality": "Florida",
+                    "logo": "Florida",
                 }
             ]
         },
@@ -898,7 +898,7 @@ export default {
             "players": [
                 {
                     "title": "Norfolk St.",
-                    "nationality": "Norfolk-St",
+                    "logo": "Norfolk-St",
                 }
             ]
         },
@@ -907,7 +907,7 @@ export default {
             "players": [
                 {
                     "title": "UConn",
-                    "nationality": "UConn",
+                    "logo": "UConn",
                 }
             ]
         },
@@ -916,7 +916,7 @@ export default {
             "players": [
                 {
                     "title": "Oklahoma",
-                    "nationality": "Oklahoma",
+                    "logo": "Oklahoma",
                 }
             ]
         },
@@ -925,7 +925,7 @@ export default {
             "players": [
                 {
                     "title": "Memphis",
-                    "nationality": "Memphis",
+                    "logo": "Memphis",
                 }
             ]
         },
@@ -934,7 +934,7 @@ export default {
             "players": [
                 {
                     "title": "Colorado St.",
-                    "nationality": "Colorado-St",
+                    "logo": "Colorado-St",
                 }
             ]
         },
@@ -943,7 +943,7 @@ export default {
             "players": [
                 {
                     "title": "Maryland",
-                    "nationality": "Maryland",
+                    "logo": "Maryland",
                 }
             ]
         },
@@ -952,7 +952,7 @@ export default {
             "players": [
                 {
                     "title": "Grand Canyon",
-                    "nationality": "Grand-Canyon",
+                    "logo": "Grand-Canyon",
                 }
             ]
         },
@@ -961,7 +961,7 @@ export default {
             "players": [
                 {
                     "title": "Missouri",
-                    "nationality": "Missouri",
+                    "logo": "Missouri",
                 }
             ]
         },
@@ -970,7 +970,7 @@ export default {
             "players": [
                 {
                     "title": "Drake",
-                    "nationality": "Drake",
+                    "logo": "Drake",
                 }
             ]
         },
@@ -979,7 +979,7 @@ export default {
             "players": [
                 {
                     "title": "Texas Tech",
-                    "nationality": "Texas-Tech",
+                    "logo": "Texas-Tech",
                 }
             ]
         },
@@ -988,7 +988,7 @@ export default {
             "players": [
                 {
                     "title": "UNC Wilmington",
-                    "nationality": "UNC-Wilmington",
+                    "logo": "UNC-Wilmington",
                 }
             ]
         },
@@ -997,7 +997,7 @@ export default {
             "players": [
                 {
                     "title": "Kansas",
-                    "nationality": "Kansas",
+                    "logo": "Kansas",
                 }
             ]
         },
@@ -1006,7 +1006,7 @@ export default {
             "players": [
                 {
                     "title": "Arkansas",
-                    "nationality": "Arkansas",
+                    "logo": "Arkansas",
                 }
             ]
         },
@@ -1015,7 +1015,7 @@ export default {
             "players": [
                 {
                     "title": "Saint John's",
-                    "nationality": "St-Johns-NY",
+                    "logo": "St-Johns-NY",
                 }
             ]
         },
@@ -1024,7 +1024,7 @@ export default {
             "players": [
                 {
                     "title": "Omaha",
-                    "nationality": "Neb-Omaha",
+                    "logo": "Neb-Omaha",
                 }
             ]
         },
@@ -1033,7 +1033,7 @@ export default {
             "players": [
                 {
                     "title": "Duke",
-                    "nationality": "Duke",
+                    "logo": "Duke",
                 }
             ]
         },
@@ -1042,7 +1042,7 @@ export default {
             "players": [
                 {
                     "title": "Mississippi St.",
-                    "nationality": "Mississippi-St",
+                    "logo": "Mississippi-St",
                 }
             ]
         },
@@ -1051,7 +1051,7 @@ export default {
             "players": [
                 {
                     "title": "Baylor",
-                    "nationality": "Baylor",
+                    "logo": "Baylor",
                 }
             ]
         },
@@ -1060,7 +1060,7 @@ export default {
             "players": [
                 {
                     "title": "Oregon",
-                    "nationality": "Oregon",
+                    "logo": "Oregon",
                 }
             ]
         },
@@ -1069,7 +1069,7 @@ export default {
             "players": [
                 {
                     "title": "Liberty",
-                    "nationality": "Liberty",
+                    "logo": "Liberty",
                 }
             ]
         },
@@ -1078,7 +1078,7 @@ export default {
             "players": [
                 {
                     "title": "Arizona",
-                    "nationality": "Arizona",
+                    "logo": "Arizona",
                 }
             ]
         },
@@ -1087,7 +1087,7 @@ export default {
             "players": [
                 {
                     "title": "Akron",
-                    "nationality": "Akron",
+                    "logo": "Akron",
                 }
             ]
         },
@@ -1096,7 +1096,7 @@ export default {
             "players": [
                 {
                     "title": "BYU",
-                    "nationality": "BYU",
+                    "logo": "BYU",
                 }
             ]
         },
@@ -1105,7 +1105,7 @@ export default {
             "players": [
                 {
                     "title": "VCU",
-                    "nationality": "VCU",
+                    "logo": "VCU",
                 }
             ]
         },
@@ -1114,7 +1114,7 @@ export default {
             "players": [
                 {
                     "title": "Wisconsin",
-                    "nationality": "Wisconsin",
+                    "logo": "Wisconsin",
                 }
             ]
         },
@@ -1123,7 +1123,7 @@ export default {
             "players": [
                 {
                     "title": "Montana",
-                    "nationality": "Montana",
+                    "logo": "Montana",
                 }
             ]
         },
@@ -1132,7 +1132,7 @@ export default {
             "players": [
                 {
                     "title": "Saint Mary's",
-                    "nationality": "St-Marys-CA",
+                    "logo": "St-Marys-CA",
                 }
             ]
         },
@@ -1141,7 +1141,7 @@ export default {
             "players": [
                 {
                     "title": "Vanderbilt",
-                    "nationality": "Vanderbilt",
+                    "logo": "Vanderbilt",
                 }
             ]
         },
@@ -1150,7 +1150,7 @@ export default {
             "players": [
                 {
                     "title": "Alabama",
-                    "nationality": "Alabama",
+                    "logo": "Alabama",
                 }
             ]
         },
@@ -1159,7 +1159,7 @@ export default {
             "players": [
                 {
                     "title": "Robert Morris",
-                    "nationality": "Robert-Morris",
+                    "logo": "Robert-Morris",
                 }
             ]
         },
@@ -1168,7 +1168,7 @@ export default {
             "players": [
                 {
                     "title": "Houston",
-                    "nationality": "Houston",
+                    "logo": "Houston",
                 }
             ]
         },
@@ -1177,7 +1177,7 @@ export default {
             "players": [
                 {
                     "title": "SIU Edwardsville",
-                    "nationality": "SIU-Edwardsville",
+                    "logo": "SIU-Edwardsville",
                 }
             ]
         },
@@ -1186,7 +1186,7 @@ export default {
             "players": [
                 {
                     "title": "Gonzaga",
-                    "nationality": "Gonzaga",
+                    "logo": "Gonzaga",
                 }
             ]
         },
@@ -1195,7 +1195,7 @@ export default {
             "players": [
                 {
                     "title": "Georgia",
-                    "nationality": "Georgia",
+                    "logo": "Georgia",
                 }
             ]
         },
@@ -1204,7 +1204,7 @@ export default {
             "players": [
                 {
                     "title": "Clemson",
-                    "nationality": "Clemson",
+                    "logo": "Clemson",
                 }
             ]
         },
@@ -1213,7 +1213,7 @@ export default {
             "players": [
                 {
                     "title": "McNeese",
-                    "nationality": "McNeese",
+                    "logo": "McNeese",
                 }
             ]
         },
@@ -1222,7 +1222,7 @@ export default {
             "players": [
                 {
                     "title": "Purdue",
-                    "nationality": "Purdue",
+                    "logo": "Purdue",
                 }
             ]
         },
@@ -1231,7 +1231,7 @@ export default {
             "players": [
                 {
                     "title": "High Point",
-                    "nationality": "High-Point",
+                    "logo": "High-Point",
                 }
             ]
         },
@@ -1240,7 +1240,7 @@ export default {
             "players": [
                 {
                     "title": "Illinois",
-                    "nationality": "Illinois",
+                    "logo": "Illinois",
                 }
             ]
         },
@@ -1249,7 +1249,7 @@ export default {
             "players": [
                 {
                     "title": "Kentucky",
-                    "nationality": "Kentucky",
+                    "logo": "Kentucky",
                 }
             ]
         },
@@ -1258,7 +1258,7 @@ export default {
             "players": [
                 {
                     "title": "Troy",
-                    "nationality": "Troy",
+                    "logo": "Troy",
                 }
             ]
         },
@@ -1267,7 +1267,7 @@ export default {
             "players": [
                 {
                     "title": "UCLA",
-                    "nationality": "UCLA",
+                    "logo": "UCLA",
                 }
             ]
         },
@@ -1276,7 +1276,7 @@ export default {
             "players": [
                 {
                     "title": "Utah St.",
-                    "nationality": "Utah-St",
+                    "logo": "Utah-St",
                 }
             ]
         },
@@ -1285,7 +1285,7 @@ export default {
             "players": [
                 {
                     "title": "Tennessee",
-                    "nationality": "Tennessee",
+                    "logo": "Tennessee",
                 }
             ]
         },
@@ -1294,7 +1294,7 @@ export default {
             "players": [
                 {
                     "title": "Wofford",
-                    "nationality": "Wofford",
+                    "logo": "Wofford",
                 }
             ]
         },
