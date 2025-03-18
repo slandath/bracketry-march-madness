@@ -17,7 +17,7 @@ const mobileOptions = {
     matchHorMargin: 2,
     distanceBetweenScorePairs: 10,
     disableHighlight: true,
-    verticalScrollMode: 'mixed',
+    verticalScrollMode: 'native',
     scrollButtonPadding: '0px'
 }
 
