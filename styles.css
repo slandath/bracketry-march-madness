@@ -51,6 +51,6 @@ footer {
     display: none;
   }
   .header {
-    font-size: 1rem;
+    display: none;
   }
 }
