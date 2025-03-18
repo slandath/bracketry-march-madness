@@ -21,11 +21,17 @@ body {
   overflow: hidden;
 }
 
-footer {
+.footer {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
   padding: 0.5rem;
-  text-align: center;
   background-color: var(--blue);
   color: #fff;
+}
+
+.footer a {
+  margin: auto 0;
 }
 
 .header {
