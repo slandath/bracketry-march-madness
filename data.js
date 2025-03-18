@@ -32,7 +32,8 @@ export default {
                             "mainScore": 0,
                         },
                     ],
-                    "isWinner": false
+                    "isWinner": false,
+                    "isServing": true
                 },
             ],
             "order": 0,
@@ -56,6 +57,7 @@ export default {
                             "mainScore": 0,
                         },
                     ],
+                    "isServing": true
                 }
             ],
             "order": 1,
@@ -70,7 +72,8 @@ export default {
                             "mainScore": 0,
                         },
                     ],
-                    "isWinner": false
+                    "isWinner": false,
+                    "isServing": true
                 },
                 {
                     "contestantId": "04",
@@ -93,7 +96,8 @@ export default {
                             "mainScore": 0,
                         },
                     ],
-                    "isWinner": false
+                    "isWinner": false,
+                    "isServing": true
                 },
                 {
                     "contestantId": "06",
@@ -125,6 +129,7 @@ export default {
                             "mainScore": 0,
                         },
                     ],
+                    "isServing": true
                 }
             ],
             "order": 4,
@@ -139,7 +144,8 @@ export default {
                             "mainScore": 0,
                         },
                     ],
-                    "isWinner": false
+                    "isWinner": false,
+                    "isServing": true
                 },
                 {
                     "contestantId": "09",
@@ -162,7 +168,8 @@ export default {
                             "mainScore": 0,
                         },
                     ],
-                    "isWinner": false
+                    "isWinner": false,
+                    "isServing": true
                 },
                 {
                     "contestantId": "11",
@@ -185,7 +192,8 @@ export default {
                             "mainScore": 0,
                         },
                     ],
-                    "isWinner": false
+                    "isWinner": false,
+                    "isServing": true
                 },
                 {
                     "contestantId": "13",
@@ -209,7 +217,8 @@ export default {
                     "mainScore": 0,
                 },
             ],
-            "isWinner": false
+            "isWinner": false,
+            "isServing": true
         },
         {
             "contestantId": "15",
@@ -232,7 +241,8 @@ export default {
                     "mainScore": 0,
                 },
             ],
-            "isWinner": false
+            "isWinner": false,
+            "isServing": true
         },
         {
             "contestantId": "17",
@@ -264,6 +274,7 @@ export default {
                     "mainScore": 0,
                 },
             ],
+            "isServing": true
         }
     ],
     "order": 10,
@@ -278,7 +289,8 @@ export default {
                     "mainScore": 0,
                 },
             ],
-            "isWinner": false
+            "isWinner": false,
+            "isServing": true
         },
         {
             "contestantId": "21",
@@ -310,6 +322,7 @@ export default {
                     "mainScore": 0,
                 },
             ],
+            "isServing": true
         }
     ],
     "order": 12,
@@ -324,7 +337,8 @@ export default {
                     "mainScore": 0,
                 },
             ],
-            "isWinner": false
+            "isWinner": false,
+            "isServing": true
         },
         {
             "contestantId": "25",
@@ -356,6 +370,7 @@ export default {
                     "mainScore": 0,
                 },
             ],
+            "isServing": true
         }
     ],
     "order": 14,
@@ -370,7 +385,8 @@ export default {
                     "mainScore": 0,
                 },
             ],
-            "isWinner": false
+            "isWinner": false,
+            "isServing": true
         },
         {
             "contestantId": "29",
@@ -394,7 +410,8 @@ export default {
                     "mainScore": 0,
                 },
             ],
-            "isWinner": false
+            "isWinner": false,
+            "isServing": true
         },
         {
             "contestantId": "",
@@ -426,6 +443,7 @@ export default {
                     "mainScore": 0,
                 },
             ],
+            "isServing": true
         }
     ],
     "order": 17,
@@ -440,7 +458,8 @@ export default {
                     "mainScore": 0,
                 },
             ],
-            "isWinner": false
+            "isWinner": false,
+            "isServing": true
         },
         {
             "contestantId": "34",
@@ -472,6 +491,7 @@ export default {
                     "mainScore": 0,
                 },
             ],
+            "isServing": true
         }
     ],
     "order": 19,
@@ -486,7 +506,8 @@ export default {
                     "mainScore": 0,
                 },
             ],
-            "isWinner": false
+            "isWinner": false,
+            "isServing": true
         },
         {
             "contestantId": "38",
@@ -509,7 +530,8 @@ export default {
                     "mainScore": 0,
                 },
             ],
-            "isWinner": false
+            "isWinner": false,
+            "isServing": true
         },
         {
             "contestantId": "40",
@@ -532,7 +554,7 @@ export default {
                     "mainScore": 0,
                 },
             ],
-            "isWinner": false
+            "isWinner": false,
         },
         {
             "contestantId": "42",
@@ -541,6 +563,7 @@ export default {
                     "mainScore": 0,
                 },
             ],
+            "isServing": true
         }
     ],
     "order": 22,
@@ -555,7 +578,8 @@ export default {
                     "mainScore": 0,
                 },
             ],
-            "isWinner": false
+            "isWinner": false,
+            "isServing": true
         },
         {
             "contestantId": "44",
@@ -579,7 +603,8 @@ export default {
                     "mainScore": 0,
                 },
             ],
-            "isWinner": false
+            "isWinner": false,
+            "isServing": true
         },
         {
             "contestantId": "46",
@@ -611,6 +636,7 @@ export default {
                     "mainScore": 0,
                 },
             ],
+            "isServing": true
         }
     ],
     "order": 25,
@@ -625,7 +651,8 @@ export default {
                     "mainScore": 0,
                 },
             ],
-            "isWinner": false
+            "isWinner": false,
+            "isServing": true
         },
         {
             "contestantId": "50",
@@ -648,7 +675,8 @@ export default {
                     "mainScore": 0,
                 },
             ],
-            "isWinner": false
+            "isWinner": false,
+            "isServing": true
         },
         {
             "contestantId": "52",
@@ -680,6 +708,7 @@ export default {
                     "mainScore": 0,
                 },
             ],
+            "isServing": true
         }
     ],
     "order": 28,
@@ -694,7 +723,8 @@ export default {
                     "mainScore": 0,
                 },
             ],
-            "isWinner": false
+            "isWinner": false,
+            "isServing": true
         },
         {
             "contestantId": "55",
@@ -717,7 +747,8 @@ export default {
                     "mainScore": 0,
                 },
             ],
-            "isWinner": false
+            "isWinner": false,
+            "isServing": true
         },
         {
             "contestantId": "57",
@@ -740,7 +771,8 @@ export default {
                     "mainScore": 0,
                 },
             ],
-            "isWinner": false
+            "isWinner": false,
+            "isServing": true
         },
         {
             "contestantId": "59",
@@ -752,6 +784,767 @@ export default {
         }
     ],
     "order": 31,
+},
+// Round 2
+// South Region
+{
+    "roundIndex": 1,
+    "sides": [
+        {
+            "contestantId": "00",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false,
+            "isServing": true
+        },
+        {
+            "contestantId": "02",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+        }
+    ],
+    "order": 0,
+},
+{
+    "roundIndex": 1,
+    "sides": [
+        {
+            "contestantId": "03",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false,
+            "isServing": true
+        },
+        {
+            "contestantId": "05",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+        }
+    ],
+    "order": 1,
+},
+{
+    "roundIndex": 1,
+    "sides": [
+        {
+            "contestantId": "",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false
+        },
+        {
+            "contestantId": "08",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isServing": true
+        }
+    ],
+    "order": 2,
+},
+{
+    "roundIndex": 1,
+    "sides": [
+        {
+            "contestantId": "10",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false
+        },
+        {
+            "contestantId": "12",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isServing": true
+        }
+    ],
+    "order": 3,
+},
+// West Region
+{
+    "roundIndex": 1,
+    "sides": [
+        {
+            "contestantId": "14",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false
+        },
+        {
+            "contestantId": "16",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isServing": true
+        }
+    ],
+    "order": 4,
+},
+{
+    "roundIndex": 1,
+    "sides": [
+        {
+            "contestantId": "19",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false
+        },
+        {
+            "contestantId": "20",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isServing": true
+        }
+    ],
+    "order": 5,
+},
+{
+    "roundIndex": 1,
+    "sides": [
+        {
+            "contestantId": "23",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false
+        },
+        {
+            "contestantId": "24",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isServing": true
+        }
+    ],
+    "order": 6,
+},
+{
+    "roundIndex": 1,
+    "sides": [
+        {
+            "contestantId": "27",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false
+        },
+        {
+            "contestantId": "28",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isServing": true
+        }
+    ],
+    "order": 7,
+},
+// East Region
+{
+    "roundIndex": 1,
+    "sides": [
+        {
+            "contestantId": "30",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false,
+            "isServing": true
+        },
+        {
+            "contestantId": "32",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+        }
+    ],
+    "order": 8,
+},
+{
+    "roundIndex": 1,
+    "sides": [
+        {
+            "contestantId": "33",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false,
+            "isServing": true
+        },
+        {
+            "contestantId": "36",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+        }
+    ],
+    "order": 9,
+},
+{
+    "roundIndex": 1,
+    "sides": [
+        {
+            "contestantId": "37",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false,
+        },
+        {
+            "contestantId": "39",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isServing": true
+        }
+    ],
+    "order": 10,
+},
+{
+    "roundIndex": 1,
+    "sides": [
+        {
+            "contestantId": "42",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false,
+        },
+        {
+            "contestantId": "43",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isServing": true
+        }
+    ],
+    "order": 11,
+},
+// Midwest Region
+{
+    "roundIndex": 1,
+    "sides": [
+        {
+            "contestantId": "45",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false,
+            "isServing": true
+        },
+        {
+            "contestantId": "48",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+        }
+    ],
+    "order": 12,
+},
+{
+    "roundIndex": 1,
+    "sides": [
+        {
+            "contestantId": "49",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false,
+        },
+        {
+            "contestantId": "51",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isServing": true
+        }
+    ],
+    "order": 13,
+},
+{
+    "roundIndex": 1,
+    "sides": [
+        {
+            "contestantId": "",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false,
+        },
+        {
+            "contestantId": "54",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isServing": true
+        }
+    ],
+    "order": 14,
+},
+{
+    "roundIndex": 1,
+    "sides": [
+        {
+            "contestantId": "56",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false,
+        },
+        {
+            "contestantId": "58",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isServing": true
+        }
+    ],
+    "order": 15,
+},
+// Sweet Sixteen
+// South Region
+{
+    "roundIndex": 2,
+    "sides": [
+        {
+            "contestantId": "00",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false,
+            "isServing": true
+        },
+        {
+            "contestantId": "03",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+        }
+    ],
+    "order": 0,
+},
+{
+    "roundIndex": 2,
+    "sides": [
+        {
+            "contestantId": "08",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false
+        },
+        {
+            "contestantId": "12",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isServing": true
+        }
+    ],
+    "order": 1,
+},
+// West Region
+{
+    "roundIndex": 2,
+    "sides": [
+        {
+            "contestantId": "16",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false,
+            "isServing": true
+        },
+        {
+            "contestantId": "20",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+        }
+    ],
+    "order": 2,
+},
+{
+    "roundIndex": 2,
+    "sides": [
+        {
+            "contestantId": "24",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false,
+        },
+        {
+            "contestantId": "28",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isServing": true
+        }
+    ],
+    "order": 3,
+},
+// East Region
+{
+    "roundIndex": 2,
+    "sides": [
+        {
+            "contestantId": "30",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false,
+            "isServing": true
+        },
+        {
+            "contestantId": "33",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+        }
+    ],
+    "order": 4,
+},
+{
+    "roundIndex": 2,
+    "sides": [
+        {
+            "contestantId": "39",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false,
+            "isServing": true
+        },
+        {
+            "contestantId": "43",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+        }
+    ],
+    "order": 5,
+},
+// Midwest Region
+{
+    "roundIndex": 2,
+    "sides": [
+        {
+            "contestantId": "45",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false,
+        },
+        {
+            "contestantId": "51",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isServing": true
+        }
+    ],
+    "order": 6,
+},
+{
+    "roundIndex": 2,
+    "sides": [
+        {
+            "contestantId": "54",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false,
+        },
+        {
+            "contestantId": "58",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isServing": true
+        }
+    ],
+    "order": 7,
+},
+// Elite Eight
+// South Region
+{
+    "roundIndex": 3,
+    "sides": [
+        {
+            "contestantId": "00",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false
+        },
+        {
+            "contestantId": "12",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isServing": true
+        }
+    ],
+    "order": 0,
+},
+// West Region
+{
+    "roundIndex": 3,
+    "sides": [
+        {
+            "contestantId": "16",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false
+        },
+        {
+            "contestantId": "28",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isServing": true
+        }
+    ],
+    "order": 1,
+},
+// East Region
+{
+    "roundIndex": 3,
+    "sides": [
+        {
+            "contestantId": "30",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false,
+            "isServing": true
+        },
+        {
+            "contestantId": "39",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+        }
+    ],
+    "order": 2,
+},
+// Midwest Region
+{
+    "roundIndex": 3,
+    "sides": [
+        {
+            "contestantId": "51",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false,
+            "isServing": true
+        },
+        {
+            "contestantId": "58",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+        }
+    ],
+    "order": 3,
+},
+// Final Four
+{
+    "roundIndex": 4,
+    "sides": [
+        {
+            "contestantId": "12",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false,
+            "isServing": true
+        },
+        {
+            "contestantId": "28",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+        }
+    ],
+    "order": 0,
+},
+{
+    "roundIndex": 4,
+    "sides": [
+        {
+            "contestantId": "30",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+            "isWinner": false,
+            "isServing": true
+        },
+        {
+            "contestantId": "51",
+            "scores": [
+                {
+                    "mainScore": 0,
+                },
+            ],
+        }
+    ],
+    "order": 1,
+},
+// Championship
+{
+    "roundIndex": 5,
+    "sides": [
+        {
+            "contestantId": "12",
+            "scores": [
+                {
+                    "mainScore": 76,
+                },
+            ],
+            "isWinner": false,
+            "isServing": true
+        },
+        {
+            "contestantId": "30",
+            "scores": [
+                {
+                    "mainScore": 72,
+                },
+            ],
+        }
+    ],
+    "order": 0,
 },
     ],
 

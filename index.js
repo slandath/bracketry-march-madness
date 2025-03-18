@@ -7,7 +7,7 @@ const wrapper = document.querySelector('#bracketry-wrapper')
 
 const mobileOptions = {
     navButtonsPosition: 'beforeTitles',
-    visibleRoundsCount: 2,
+    visibleRoundsCount: 1,
     matchMaxWidth: 360,
     leftNavButtonHTML: `<div style="padding: 7px;">< PREV ROUND</div>`,
     rightNavButtonHTML: `<div style="padding: 7px;">NEXT ROUND ></div>`,
@@ -29,7 +29,7 @@ let options = {
         return `<img style="width: 16px; visibility: ${p.logo ? 'visible' : 'hidden'}"
                 src="https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/${p.logo?.toLowerCase()}.svg">`
     },
-    visibleRoundsCount: 2
+    visibleRoundsCount: 4
 }
 
 if (window.innerWidth < 700) {
@@ -48,4 +48,5 @@ function getCurrentYear() {
     if (yearId) {
         yearId.textContent = currentYear;
     }
+    console.log(window.innerWidth)
 }
