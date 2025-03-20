@@ -35,6 +35,15 @@ export default {
                     "isWinner": false,
                     "isServing": true
                 },
+                {
+                    "contestantId": "60",
+                    "scores": [
+                        {
+                            "mainScore": 0,
+                        },
+                    ],
+                    "isWinner": false,
+                },
             ],
             "order": 0,
         },
@@ -123,7 +132,7 @@ export default {
                     "isWinner": false
                 },
                 {
-                    "contestantId": "",
+                    "contestantId": "61",
                     "scores": [
                         {
                             "mainScore": 0,
@@ -414,7 +423,7 @@ export default {
             "isServing": true
         },
         {
-            "contestantId": "",
+            "contestantId": "62",
             "scores": [
                 {
                     "mainScore": 0,
@@ -702,7 +711,7 @@ export default {
             "isWinner": false
         },
         {
-            "contestantId": "",
+            "contestantId": "63",
             "scores": [
                 {
                     "mainScore": 0,
@@ -2095,7 +2104,8 @@ export default {
             "entryStatus": "16",
             "players": [
                 {
-                    "title": "",
+                    "title": "Alabama St.",
+                    "logo": "Alabama-St"
                 }
             ]
         },
@@ -2103,7 +2113,8 @@ export default {
             "entryStatus": "11",
             "players": [
                 {
-                    "title": "",
+                    "title": "North Carolina",
+                    "logo": "north-carolina"
                 }
             ]
         },
@@ -2111,7 +2122,8 @@ export default {
             "entryStatus": "16",
             "players": [
                 {
-                    "title": "",
+                    "title": "Mount St. Mary's",
+                    "logo": "mt-st-marys"
                 }
             ]
         },
@@ -2119,7 +2131,8 @@ export default {
             "entryStatus": "11",
             "players": [
                 {
-                    "title": "",
+                    "title": "Xavier",
+                    "logo": "Xavier"
                 }
             ]
         },
