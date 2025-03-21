@@ -29,17 +29,17 @@ export default {
                     "contestantId": "00",
                     "scores": [
                         {
-                            "mainScore": 0,
+                            "mainScore": 83,
                         },
                     ],
-                    "isWinner": false,
+                    "isWinner": true,
                     "isServing": true
                 },
                 {
                     "contestantId": "60",
                     "scores": [
                         {
-                            "mainScore": 0,
+                            "mainScore": 63,
                         },
                     ],
                     "isWinner": false,
@@ -54,7 +54,7 @@ export default {
                     "contestantId": "01",
                     "scores": [
                         {
-                            "mainScore": 0,
+                            "mainScore": 75,
                         },
                     ],
                     "isWinner": false
@@ -63,9 +63,10 @@ export default {
                     "contestantId": "02",
                     "scores": [
                         {
-                            "mainScore": 0,
+                            "mainScore": 89,
                         },
                     ],
+                    "isWinner": true,
                     "isServing": true
                 }
             ],
@@ -78,17 +79,17 @@ export default {
                     "contestantId": "03",
                     "scores": [
                         {
-                            "mainScore": 0,
+                            "mainScore": 68,
                         },
                     ],
-                    "isWinner": false,
+                    "isWinner": true,
                     "isServing": true
                 },
                 {
                     "contestantId": "04",
                     "scores": [
                         {
-                            "mainScore": 0,
+                            "mainScore": 65,
                         },
                     ],
                 }
@@ -102,17 +103,17 @@ export default {
                     "contestantId": "05",
                     "scores": [
                         {
-                            "mainScore": 0,
+                            "mainScore": 80,
                         },
                     ],
-                    "isWinner": false,
+                    "isWinner": true,
                     "isServing": true
                 },
                 {
                     "contestantId": "06",
                     "scores": [
                         {
-                            "mainScore": 0,
+                            "mainScore": 71,
                         },
                     ],
                 }
@@ -319,7 +320,7 @@ export default {
             "contestantId": "22",
             "scores": [
                 {
-                    "mainScore": 0,
+                    "mainScore": 57,
                 },
             ],
             "isWinner": false
@@ -328,9 +329,10 @@ export default {
             "contestantId": "23",
             "scores": [
                 {
-                    "mainScore": 0,
+                    "mainScore": 67,
                 },
             ],
+            "isWinner": true,
             "isServing": true
         }
     ],
@@ -343,17 +345,17 @@ export default {
             "contestantId": "24",
             "scores": [
                 {
-                    "mainScore": 0,
+                    "mainScore": 82,
                 },
             ],
-            "isWinner": false,
+            "isWinner": true,
             "isServing": true
         },
         {
             "contestantId": "25",
             "scores": [
                 {
-                    "mainScore": 0,
+                    "mainScore": 72,
                 },
             ],
         }
@@ -367,7 +369,7 @@ export default {
             "contestantId": "26",
             "scores": [
                 {
-                    "mainScore": 0,
+                    "mainScore": 72,
                 },
             ],
             "isWinner": false
@@ -376,9 +378,10 @@ export default {
             "contestantId": "27",
             "scores": [
                 {
-                    "mainScore": 0,
+                    "mainScore": 79,
                 },
             ],
+            "isWinner": true,
             "isServing": true
         }
     ],
@@ -391,17 +394,17 @@ export default {
             "contestantId": "28",
             "scores": [
                 {
-                    "mainScore": 0,
+                    "mainScore": 83,
                 },
             ],
-            "isWinner": false,
+            "isWinner": true,
             "isServing": true
         },
         {
             "contestantId": "29",
             "scores": [
                 {
-                    "mainScore": 0,
+                    "mainScore": 53,
                 },
             ],
         }
@@ -536,17 +539,17 @@ export default {
             "contestantId": "39",
             "scores": [
                 {
-                    "mainScore": 0,
+                    "mainScore": 85,
                 },
             ],
-            "isWinner": false,
+            "isWinner": true,
             "isServing": true
         },
         {
             "contestantId": "40",
             "scores": [
                 {
-                    "mainScore": 0,
+                    "mainScore": 66,
                 },
             ],
         }
@@ -609,17 +612,17 @@ export default {
             "contestantId": "45",
             "scores": [
                 {
-                    "mainScore": 0,
+                    "mainScore": 78,
                 },
             ],
-            "isWinner": false,
+            "isWinner": true,
             "isServing": true
         },
         {
             "contestantId": "46",
             "scores": [
                 {
-                    "mainScore": 0,
+                    "mainScore": 40,
                 },
             ],
         }
@@ -633,16 +636,16 @@ export default {
             "contestantId": "47",
             "scores": [
                 {
-                    "mainScore": 0,
+                    "mainScore": 89,
                 },
             ],
-            "isWinner": false
+            "isWinner": true
         },
         {
             "contestantId": "48",
             "scores": [
                 {
-                    "mainScore": 0,
+                    "mainScore": 68,
                 },
             ],
             "isServing": true
@@ -657,7 +660,7 @@ export default {
             "contestantId": "49",
             "scores": [
                 {
-                    "mainScore": 0,
+                    "mainScore": 67,
                 },
             ],
             "isWinner": false,
@@ -667,9 +670,10 @@ export default {
             "contestantId": "50",
             "scores": [
                 {
-                    "mainScore": 0,
+                    "mainScore": 69,
                 },
             ],
+            "isWinner": true
         }
     ],
     "order": 26,
@@ -753,17 +757,17 @@ export default {
             "contestantId": "56",
             "scores": [
                 {
-                    "mainScore": 0,
+                    "mainScore": 72,
                 },
             ],
-            "isWinner": false,
+            "isWinner": true,
             "isServing": true
         },
         {
             "contestantId": "57",
             "scores": [
                 {
-                    "mainScore": 0,
+                    "mainScore": 47,
                 },
             ],
         }
@@ -777,17 +781,17 @@ export default {
             "contestantId": "58",
             "scores": [
                 {
-                    "mainScore": 0,
+                    "mainScore": 77,
                 },
             ],
-            "isWinner": false,
+            "isWinner": true,
             "isServing": true
         },
         {
             "contestantId": "59",
             "scores": [
                 {
-                    "mainScore": 0,
+                    "mainScore": 62,
                 },
             ],
         }
@@ -1101,7 +1105,7 @@ export default {
             "isServing": true
         },
         {
-            "contestantId": "48",
+            "contestantId": "47",
             "scores": [
                 {
                     "mainScore": 0,
@@ -1115,7 +1119,7 @@ export default {
     "roundIndex": 1,
     "sides": [
         {
-            "contestantId": "49",
+            "contestantId": "50",
             "scores": [
                 {
                     "mainScore": 0,
