@@ -2,7 +2,7 @@
 
 Digital bracket for the NCAA Men's Basketball Tournament - powered by [Bracketry](https://github.com/sbachinin/bracketry).  
 
-This repo is a fork of [Braketry Basic Example](https://github.com/sbachinin/bracketry-basic-example) with customization for college basketball.
+This repo is a fork of [Bracketry Basic Example](https://github.com/sbachinin/bracketry-basic-example) with customization for college basketball.
 
 ## Options
 
