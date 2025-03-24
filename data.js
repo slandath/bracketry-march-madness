@@ -858,16 +858,16 @@ export default {
             "contestantId": "07",
             "scores": [
                 {
-                    "mainScore": 0,
+                    "mainScore": 91,
                 },
             ],
-            "isWinner": false
+            "isWinner": true
         },
         {
             "contestantId": "08",
             "scores": [
                 {
-                    "mainScore": 0,
+                    "mainScore": 78,
                 },
             ],
             "isServing": true
@@ -882,7 +882,7 @@ export default {
             "contestantId": "11",
             "scores": [
                 {
-                    "mainScore": 0,
+                    "mainScore": 63,
                 },
             ],
             "isWinner": false
@@ -891,9 +891,10 @@ export default {
             "contestantId": "12",
             "scores": [
                 {
-                    "mainScore": 0,
+                    "mainScore": 71,
                 },
             ],
+            "isWinner": true,
             "isServing": true
         }
     ],
@@ -907,16 +908,16 @@ export default {
             "contestantId": "14",
             "scores": [
                 {
-                    "mainScore": 0,
+                    "mainScore": 77,
                 },
             ],
-            "isWinner": false
+            "isWinner": true
         },
         {
             "contestantId": "16",
             "scores": [
                 {
-                    "mainScore": 0,
+                    "mainScore": 75,
                 },
             ],
             "isServing": true
@@ -931,18 +932,18 @@ export default {
             "contestantId": "19",
             "scores": [
                 {
-                    "mainScore": 0,
+                    "mainScore": 71,
                 },
             ],
-            "isWinner": false
         },
         {
             "contestantId": "20",
             "scores": [
                 {
-                    "mainScore": 0,
+                    "mainScore": 72,
                 },
             ],
+            "isWinner": true,
             "isServing": true
         }
     ],
@@ -1005,7 +1006,7 @@ export default {
             "contestantId": "30",
             "scores": [
                 {
-                    "mainScore": 0,
+                    "mainScore": 89,
                 },
             ],
             "isWinner": false,
@@ -1015,7 +1016,7 @@ export default {
             "contestantId": "32",
             "scores": [
                 {
-                    "mainScore": 0,
+                    "mainScore": 66,
                 },
             ],
         }
@@ -1029,19 +1030,19 @@ export default {
             "contestantId": "33",
             "scores": [
                 {
-                    "mainScore": 0,
+                    "mainScore": 83,
                 },
             ],
-            "isWinner": false,
             "isServing": true
         },
         {
             "contestantId": "35",
             "scores": [
                 {
-                    "mainScore": 0,
+                    "mainScore": 87,
                 },
             ],
+            "isWinner": true,
         }
     ],
     "order": 9,
@@ -1077,18 +1078,18 @@ export default {
             "contestantId": "41",
             "scores": [
                 {
-                    "mainScore": 0,
+                    "mainScore": 66,
                 },
             ],
-            "isWinner": false,
         },
         {
             "contestantId": "43",
             "scores": [
                 {
-                    "mainScore": 0,
+                    "mainScore": 80,
                 },
             ],
+            "isWinner": true,
             "isServing": true
         }
     ],
@@ -1151,18 +1152,18 @@ export default {
             "contestantId": "53",
             "scores": [
                 {
-                    "mainScore": 0,
+                    "mainScore": 75,
                 },
             ],
-            "isWinner": false,
         },
         {
             "contestantId": "54",
             "scores": [
                 {
-                    "mainScore": 0,
+                    "mainScore": 84,
                 },
             ],
+            "isWinner": true,
             "isServing": true
         }
     ],
@@ -1223,7 +1224,7 @@ export default {
     "roundIndex": 2,
     "sides": [
         {
-            "contestantId": "08",
+            "contestantId": "07",
             "scores": [
                 {
                     "mainScore": 0,
@@ -1248,14 +1249,13 @@ export default {
     "roundIndex": 2,
     "sides": [
         {
-            "contestantId": "16",
+            "contestantId": "14",
             "scores": [
                 {
                     "mainScore": 0,
                 },
             ],
             "isWinner": false,
-            "isServing": true
         },
         {
             "contestantId": "20",
@@ -1287,7 +1287,6 @@ export default {
                     "mainScore": 0,
                 },
             ],
-            "isServing": true
         }
     ],
     "order": 3,
@@ -1421,7 +1420,7 @@ export default {
     "roundIndex": 3,
     "sides": [
         {
-            "contestantId": "16",
+            "contestantId": "",
             "scores": [
                 {
                     "mainScore": 0,
@@ -1436,7 +1435,6 @@ export default {
                     "mainScore": 0,
                 },
             ],
-            "isServing": true
         }
     ],
     "order": 1,
@@ -1506,7 +1504,7 @@ export default {
             "isServing": true
         },
         {
-            "contestantId": "28",
+            "contestantId": "",
             "scores": [
                 {
                     "mainScore": 0,
