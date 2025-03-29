@@ -1203,17 +1203,17 @@ export default {
           contestantId: "00",
           scores: [
             {
-              mainScore: 0,
+              mainScore: 78,
             },
           ],
-          isWinner: false,
+          isWinner: true,
           isServing: true,
         },
         {
           contestantId: "03",
           scores: [
             {
-              mainScore: 0,
+              mainScore: 65,
             },
           ],
         },
@@ -1227,7 +1227,7 @@ export default {
           contestantId: "07",
           scores: [
             {
-              mainScore: 0,
+              mainScore: 70,
             },
           ],
         },
@@ -1235,10 +1235,11 @@ export default {
           contestantId: "12",
           scores: [
             {
-              mainScore: 0,
+              mainScore: 73,
             },
           ],
           isServing: true,
+          isWinner: true,
         },
       ],
       order: 1,
@@ -1346,16 +1347,16 @@ export default {
           contestantId: "45",
           scores: [
             {
-              mainScore: 0,
+              mainScore: 62,
             },
           ],
-          isWinner: false,
+          isWinner: true,
         },
         {
           contestantId: "51",
           scores: [
             {
-              mainScore: 0,
+              mainScore: 60,
             },
           ],
           isServing: true,
@@ -1370,7 +1371,7 @@ export default {
           contestantId: "54",
           scores: [
             {
-              mainScore: 0,
+              mainScore: 65,
             },
           ],
           isWinner: false,
@@ -1379,10 +1380,11 @@ export default {
           contestantId: "58",
           scores: [
             {
-              mainScore: 0,
+              mainScore: 78,
             },
           ],
           isServing: true,
+          isWinner: true,
         },
       ],
       order: 7,
@@ -1467,14 +1469,13 @@ export default {
       roundIndex: 3,
       sides: [
         {
-          contestantId: "51",
+          contestantId: "45",
           scores: [
             {
               mainScore: 0,
             },
           ],
           isWinner: false,
-          isServing: true,
         },
         {
           contestantId: "58",
