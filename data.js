@@ -1423,16 +1423,16 @@ export default {
           contestantId: "14",
           scores: [
             {
-              mainScore: 0,
+              mainScore: 84,
             },
           ],
-          isWinner: false,
+          isWinner: true,
         },
         {
           contestantId: "24",
           scores: [
             {
-              mainScore: 0,
+              mainScore: 79,
             },
           ],
         },
@@ -1447,17 +1447,17 @@ export default {
           contestantId: "30",
           scores: [
             {
-              mainScore: 0,
+              mainScore: 85,
             },
           ],
-          isWinner: false,
+          isWinner: true,
           isServing: true,
         },
         {
           contestantId: "43",
           scores: [
             {
-              mainScore: 0,
+              mainScore: 65,
             },
           ],
         },
@@ -1503,7 +1503,7 @@ export default {
           isServing: true,
         },
         {
-          contestantId: "",
+          contestantId: "14",
           scores: [
             {
               mainScore: 0,
@@ -1527,7 +1527,7 @@ export default {
           isServing: true,
         },
         {
-          contestantId: "51",
+          contestantId: "",
           scores: [
             {
               mainScore: 0,
