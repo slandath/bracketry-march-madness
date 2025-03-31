@@ -1398,16 +1398,16 @@ export default {
           contestantId: "00",
           scores: [
             {
-              mainScore: 0,
+              mainScore: 70,
             },
           ],
-          isWinner: false,
+          isWinner: true,
         },
         {
           contestantId: "12",
           scores: [
             {
-              mainScore: 0,
+              mainScore: 64,
             },
           ],
           isServing: true,
@@ -1472,16 +1472,16 @@ export default {
           contestantId: "45",
           scores: [
             {
-              mainScore: 0,
+              mainScore: 69,
             },
           ],
-          isWinner: false,
+          isWinner: true,
         },
         {
           contestantId: "58",
           scores: [
             {
-              mainScore: 0,
+              mainScore: 50,
             },
           ],
         },
@@ -1493,14 +1493,13 @@ export default {
       roundIndex: 4,
       sides: [
         {
-          contestantId: "12",
+          contestantId: "00",
           scores: [
             {
               mainScore: 0,
             },
           ],
           isWinner: false,
-          isServing: true,
         },
         {
           contestantId: "14",
@@ -1527,7 +1526,7 @@ export default {
           isServing: true,
         },
         {
-          contestantId: "",
+          contestantId: "45",
           scores: [
             {
               mainScore: 0,
